@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: National Adult Maltreatment Reporting System [Dataset]</title>
+    <link>https://www.data-liberation-project.org/datasets/national-adult-maltreatment-reporting-system/</link>
+    <description>Updates on the Data Liberation Project's National Adult Maltreatment Reporting System dataset</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/datasets/national-adult-maltreatment-reporting-system/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

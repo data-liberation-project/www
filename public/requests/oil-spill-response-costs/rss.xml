@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: Oil Spill Response Costs [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/oil-spill-response-costs/</link>
+    <description>Updates on the Data Liberation Project's Oil Spill Response Costs request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 16:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/oil-spill-response-costs/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initial Records Published</title>
+      <link>https://www.data-liberation-project.org/requests/oil-spill-response-costs/#update-initial-records-published</link>
+      <pubDate>Mon, 12 Aug 2024 16:00:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/oil-spill-response-costs/#update-initial-records-published</guid>
+      <description>On August 12, 2024, the Data Liberation Project &lt;a href=&#34;../../documents/uscg-oil-spill-response-costs/&#34;&gt;published&lt;/a&gt; the initial records it received from USCG, along with descriptions of the documents contained within them.</description>
+    </item>
+    
+    <item>
+      <title>Initial Records Provided</title>
+      <link>https://www.data-liberation-project.org/requests/oil-spill-response-costs/#update-initial-records-provided</link>
+      <pubDate>Tue, 30 Jul 2024 14:07:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/oil-spill-response-costs/#update-initial-records-provided</guid>
+      <description>On July 30, 2024, USCG provided an initial 150 pages of responsive records and an indication that additional records would be provided on a rolling basis.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

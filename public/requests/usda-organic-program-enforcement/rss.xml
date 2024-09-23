@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: USDA Organic Program Enforcement [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/usda-organic-program-enforcement/</link>
+    <description>Updates on the Data Liberation Project's USDA Organic Program Enforcement request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 10:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/usda-organic-program-enforcement/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Records Published</title>
+      <link>https://www.data-liberation-project.org/requests/usda-organic-program-enforcement/#update-records-published</link>
+      <pubDate>Tue, 09 Apr 2024 10:00:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/usda-organic-program-enforcement/#update-records-published</guid>
+      <description>On April 9, 2024, the Data Liberation Project &lt;a href=&#34;../../datasets/usda-organic-program-enforcement/&#34;&gt;published the records received&lt;/a&gt; so far.</description>
+    </item>
+    
+    <item>
+      <title>Interim Response Received</title>
+      <link>https://www.data-liberation-project.org/requests/usda-organic-program-enforcement/#update-interim-response-received</link>
+      <pubDate>Tue, 12 Mar 2024 12:38:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/usda-organic-program-enforcement/#update-interim-response-received</guid>
+      <description>On March 12, 2024, the USDA sent its &lt;a href=&#34;https://www.documentcloud.org/documents/24536945-2024-03-12-2024-ams-00070-f-first-interim-response-letter&#34;&gt;first interim response 📄&lt;/a&gt;, providing a spreadsheet that appears to list all &lt;em&gt;closed&lt;/em&gt; investigations in the database.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

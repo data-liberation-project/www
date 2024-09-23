@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ partial "page-header.html" . }}
+<section>
+    {{ partial "chip.html" (dict
+        "href" "/about/"
+        "title" "About"
+        "summary" "Learn more about the project."
+    ) }}
+    {{ partial "chip.html" (dict
+        "href" "/newsletter/"
+        "title" "Newsletter"
+        "summary" "Subscribe to the project's updates."
+    ) }}
+    {{ partial "chip.html" (dict
+        "href" "/datasets/"
+        "title" "Datasets"
+        "summary" "Explore the data we've liberated."
+    ) }}
+    {{ partial "chip.html" (dict
+        "href" "/documents/"
+        "title" "Documents"
+        "summary" "Explore the documents we've liberated."
+    ) }}
+    {{ partial "chip.html" (dict
+        "href" "/requests/"
+        "title" "Records Requests"
+        "summary" "See what we're requesting from the government."
+    ) }}
+    {{ partial "chip.html" (dict
+        "href" "/get-involved/"
+        "title" "Get Involved"
+        "summary" "Learn how you can contribute to the project."
+    ) }}
+</section>
+{{ end }}

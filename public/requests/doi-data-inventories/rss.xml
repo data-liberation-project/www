@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: DOI Data Inventories [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/doi-data-inventories/</link>
+    <description>Updates on the Data Liberation Project's DOI Data Inventories request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jul 2023 16:16:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/doi-data-inventories/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Request Fulfilled, No Responsive Records</title>
+      <link>https://www.data-liberation-project.org/requests/doi-data-inventories/#update-request-fulfilled-no-responsive-records</link>
+      <pubDate>Mon, 17 Jul 2023 16:16:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/doi-data-inventories/#update-request-fulfilled-no-responsive-records</guid>
+      <description>On July 17, 2023, the Department of the Interior emailed &lt;a href=&#34;https://www.documentcloud.org/documents/23886724-2023-07-17-23-001589_final-response&#34;&gt;a final response letter 📄&lt;/a&gt;. &amp;ldquo;After a thorough search, it has been determined that Office of the Secretary has no records responsive to you request. The Office of Chief Information Office informed our office that they did not discover any additional data inventories beyond those that are harvested by the current data inventory at data.doi.gov which are reported to data.gov. The program office then queried other bureaus within the Department of the Interior to check if their offices are using other data asset inventories.&amp;rdquo; According to a &lt;a href=&#34;https://www.documentcloud.org/documents/23886725-2023-07-17-doi-data-inventory-attestation&#34;&gt;document provided alongside the determination 📄&lt;/a&gt;, those bureaus each attested that they held no further data inventories.</description>
+    </item>
+    
+    <item>
+      <title>Request Acknowledged</title>
+      <link>https://www.data-liberation-project.org/requests/doi-data-inventories/#update-request-acknowledged</link>
+      <pubDate>Tue, 24 Jan 2023 12:05:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/doi-data-inventories/#update-request-acknowledged</guid>
+      <description>On January 24, 2023, the Department of the Interior emailed &lt;a href=&#34;https://www.documentcloud.org/documents/23586464-2023-01-24-23-001589-ack&#34;&gt;an acknowledgment letter 📄&lt;/a&gt;. It has assigned the request to its &amp;ldquo;complex&amp;rdquo; processing track and classified the DLP as a representative of the news media. Additionally: &amp;ldquo;Because of your entitlements, we do not anticipate there will be billable fees for processing your request, so there is no need for us to address your request for a fee waiver.&amp;rdquo;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{ partial "page-header.html" . }}
+<section>
+<div class="documents">
+{{ range .Pages }}
+    {{ .Render "li" }}
+{{ end }}
+</div>
+</section>
+{{ end }}

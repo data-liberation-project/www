@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets on The Data Liberation Project</title>
+    <link>https://www.data-liberation-project.org/datasets/</link>
+    <description>Recent content in Datasets on The Data Liberation Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/datasets/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Federal Inmate Deaths</title>
+      <link>https://www.data-liberation-project.org/datasets/bop-federal-inmate-deaths/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/bop-federal-inmate-deaths/</guid>
+      <description>A spreadsheet of each federal inmate death since 2005, including demographic and cause-of-death information.</description>
+    </item>
+    
+    <item>
+      <title>Boating Accident Report Database</title>
+      <link>https://www.data-liberation-project.org/datasets/uscg-boating-accident-report-database/</link>
+      <pubDate>Mon, 12 Aug 2024 20:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/uscg-boating-accident-report-database/</guid>
+      <description>Data on 58,430 boating accidents that occurred in 2009–2023 and were reported to state authorities.</description>
+    </item>
+    
+    <item>
+      <title>Federal Inmate Complaints</title>
+      <link>https://www.data-liberation-project.org/datasets/federal-inmate-complaints/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/federal-inmate-complaints/</guid>
+      <description>Data on 1.78 million complaint/appeal submissions filed by federal prison inmates between January 2000 and late May 2024, spanning nearly 1 million distinct cases.</description>
+    </item>
+    
+    <item>
+      <title>Commercial Fishing Incident Database</title>
+      <link>https://www.data-liberation-project.org/datasets/niosh-commercial-fishing-incident-database/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/niosh-commercial-fishing-incident-database/</guid>
+      <description>A national database of “fatalities and vessel disasters that occur in the US fishing industry.”</description>
+    </item>
+    
+    <item>
+      <title>National Adult Maltreatment Reporting System</title>
+      <link>https://www.data-liberation-project.org/datasets/national-adult-maltreatment-reporting-system/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/national-adult-maltreatment-reporting-system/</guid>
+      <description>Agency- and case-level data from “the first comprehensive, national reporting system for adult protective services programs.”</description>
+    </item>
+    
+    <item>
+      <title>Firearm Background Check Counts</title>
+      <link>https://www.data-liberation-project.org/datasets/nics-firearm-background-checks/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/nics-firearm-background-checks/</guid>
+      <description>Monthly counts of firearm background checks run by the FBI by month, state, and firearm type.</description>
+    </item>
+    
+    <item>
+      <title>USDA Organic Program Enforcement</title>
+      <link>https://www.data-liberation-project.org/datasets/usda-organic-program-enforcement/</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/usda-organic-program-enforcement/</guid>
+      <description>Outcomes of investigations spurred by complaints submitted to the USDA&amp;rsquo;s National Organic Program.</description>
+    </item>
+    
+    <item>
+      <title>Water Use Inventory Records</title>
+      <link>https://www.data-liberation-project.org/datasets/usgs-water-use-inventory/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/usgs-water-use-inventory/</guid>
+      <description>Site-level records from the USGS&amp;rsquo;s water use inventory, indicating volumes of and types of water conveyed in a given year.</description>
+    </item>
+    
+    <item>
+      <title>TSA Complaint Counts</title>
+      <link>https://www.data-liberation-project.org/datasets/tsa-complaint-counts/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/tsa-complaint-counts/</guid>
+      <description>Monthly counts of Transportation Security Administration traveler complaints by airport, category, and subcategory.</description>
+    </item>
+    
+    <item>
+      <title>Unaccompanied Child Incident Reports</title>
+      <link>https://www.data-liberation-project.org/datasets/unaccompanied-children-oversight-records/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/unaccompanied-children-oversight-records/</guid>
+      <description>Incident reports submitted by government-funded facilities caring for unaccompanied immigrant children.</description>
+    </item>
+    
+    <item>
+      <title>CFPB Enforcement Relief &amp; Penalties</title>
+      <link>https://www.data-liberation-project.org/datasets/cfpb-enforcement-matters/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/cfpb-enforcement-matters/</guid>
+      <description>Amounts and dates of court-ordered relief and penalties in Consumer Financial Protection Bureau enforcement matters.</description>
+    </item>
+    
+    <item>
+      <title>Peace Corps Resignation Counts</title>
+      <link>https://www.data-liberation-project.org/datasets/peace-corps-resignations/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/peace-corps-resignations/</guid>
+      <description>Counts of resigned Peace Corps volunteers by post and resignation reasons.</description>
+    </item>
+    
+    <item>
+      <title>Veterans Affairs SSVF Survey Data</title>
+      <link>https://www.data-liberation-project.org/datasets/va-ssvf-survey-data/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/va-ssvf-survey-data/</guid>
+      <description>Data and reports from satisfaction surveys evaluating VA Supportive Services for Veteran Families (SSVF) program providers.</description>
+    </item>
+    
+    <item>
+      <title>“Acute Hospital Care at Home” Data</title>
+      <link>https://www.data-liberation-project.org/datasets/cms-acute-hospital-care-at-home/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/cms-acute-hospital-care-at-home/</guid>
+      <description>Waiver applications and weekly/monthly reporting metrics from hospitals participating in the Acute Hospital Care at Home program.</description>
+    </item>
+    
+    <item>
+      <title>Theft/Loss of Controlled Substances</title>
+      <link>https://www.data-liberation-project.org/datasets/dea-theft-and-loss-counts/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/dea-theft-and-loss-counts/</guid>
+      <description>Counts and quantities of controlled substance and regulated chemical thefts/losses reported to the DEA, by state, business activity, and loss type, and year.</description>
+    </item>
+    
+    <item>
+      <title>Hazmat Transportation Incident Reports</title>
+      <link>https://www.data-liberation-project.org/datasets/phmsa-hazmat-incident-reports/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/phmsa-hazmat-incident-reports/</guid>
+      <description>Decades of hazardous material transportation incidents reported to the Pipeline and Hazardous Materials Safety Administration via Form &lt;code&gt;5800.1&lt;/code&gt;.</description>
+    </item>
+    
+    <item>
+      <title>EPA Risk Management Program Database</title>
+      <link>https://www.data-liberation-project.org/datasets/epa-risk-management-program-database/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/epa-risk-management-program-database/</guid>
+      <description>Data from the Risk Management Plans submitted by US facilities handling certain hazardous substances.</description>
+    </item>
+    
+    <item>
+      <title>APHIS Inspection Reports</title>
+      <link>https://www.data-liberation-project.org/datasets/aphis-inspection-reports/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/datasets/aphis-inspection-reports/</guid>
+      <description>Data on Animal Welfare Act inspections of commercial animal dealers, exhibitors (such as zoos), research facilities, and transporters.</description>
+    </item>
+    
+  </channel>
+</rss>

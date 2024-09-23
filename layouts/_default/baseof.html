@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" prefix="og: http://ogp.me/ns#">
+{{ partial "head.html" . }}
+<body {{ if .IsHome }}class="home"{{ end }}>
+{{ block "header" . }}
+{{ partial "header.html" . }}
+{{ end }}
+
+{{ block "main" . }}
+{{ end }}
+
+{{ block "footer" . }}
+{{ partial "footer.html" . }}
+{{ end }}
+
+{{ partial "scripts.html" . }}
+</body>
+
+</html>
+

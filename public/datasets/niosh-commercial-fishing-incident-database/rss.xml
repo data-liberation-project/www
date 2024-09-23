@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: Commercial Fishing Incident Database [Dataset]</title>
+    <link>https://www.data-liberation-project.org/datasets/niosh-commercial-fishing-incident-database/</link>
+    <description>Updates on the Data Liberation Project's Commercial Fishing Incident Database dataset</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/datasets/niosh-commercial-fishing-incident-database/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

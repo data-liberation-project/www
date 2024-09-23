@@ -1,0 +1,47 @@
+<div class="chip-container">
+    {{ if .href }}
+    <a href="{{ .href }}">
+    {{ end }}
+    <div class="chip-inner">
+        <div class="chip-left">
+            {{ if .href }}
+            <div class="chip-item">
+                {{ .title | markdownify }}
+            </div>
+            {{ else }}
+            {{ if .isHome }}
+            <div class="chip-home">
+            {{ else }}
+            <a href="/">
+            {{ end }}
+                <div class="chip-item">
+                    <h1>{{ .title | markdownify }}</h1>
+                </div>
+            {{ if .isHome }}
+            </div>
+            {{ else }}
+            </a>
+            {{ end }}
+            {{ end }}
+        </div>
+        <div class="chip-right">
+            {{ if .subtitle }}
+            <div class="chip-item chip-item-subtitle">
+                <h2>{{ .subtitle | markdownify }}</h2>
+                {{ if .category }}
+                <div class="chip-category">
+                    {{ .category  }}
+                </div>
+                {{ end }}
+            </div>
+            {{ end }}
+            <div class="chip-item chip-summary">
+                {{ .summary | markdownify }}
+            </div>
+        </div>
+    </div>
+    {{ if .href }}
+    </a>
+    {{ end }}
+</div>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: FMCS Case Management System Schema [Dataset]</title>
+    <link>https://www.data-liberation-project.org/documents/fmcs-case-management-system-schema/</link>
+    <description>Updates on the Data Liberation Project's FMCS Case Management System Schema documents</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://www.data-liberation-project.org/documents/fmcs-case-management-system-schema/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

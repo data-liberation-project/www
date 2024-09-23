@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{ partial "page-header.html" . }}
+<section>
+<div class="datasets">
+{{ range .Pages }}
+    {{ .Render "li" }}
+{{ end }}
+</div>
+</section>
+{{ end }}

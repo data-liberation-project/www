@@ -1,0 +1,44 @@
+{{ define "main" }}
+{{ partial "page-header.html" . }}
+<div class="metadata">
+    <div class="metadata-item"><div class="metadata-label">Submitted</div><div class="metadata-value"> {{ .Date.Format "January 2, 2006" }}{{ if .Params.date_resubmitted }} (resubmitted {{ time.Format "January 2, 2006" .Params.date_resubmitted }}){{ end }}</div></div>
+    <div class="metadata-item"><div class="metadata-label">Agency</div><div class="metadata-value">{{ .Params.agency }}</div></div>
+    <div class="metadata-item"><div class="metadata-label">Request ID</div><div class="metadata-value">
+            {{ if .Params.request_id }}
+            {{ .Params.request_id }}
+            {{ else }}
+            <i>Not yet assigned</i>
+            {{ end }}
+    </div></div>
+    <div class="metadata-item">
+        <div class="metadata-label">Status</div>
+        <div class="metadata-value">
+            {{ if .Params.status_link }}
+            <a href="{{.Params.status_link}}">{{ .Params.status }}</a>
+            {{ else }}
+            {{ .Params.status }}
+            {{ end }}
+        </div>
+    </div>
+    <div class="metadata-item"><div class="metadata-label">Last updated</div><div class="metadata-value">{{ time.Format "January 2, 2006" .Params.last_updated }}</div></div>
+</div>
+<article>
+    <div class="post">
+        {{ .Content }}
+    </div>
+    <a class="button full-width" href="https://docs.google.com/forms/d/e/1FAIpQLSed3bOZxgNwgMKGQIdPHsb8my4m1b-puK92pySui3EW6Xmkbw/viewform?usp=pp_url&entry.585356262={{ .Permalink }}" target="_blank">🔔 Click here to receive updates about this request</a>
+    <div class="newsletter-callout">
+        <p><small><i>You can also <a href="/newsletter/">sign up for the Data Liberation Project's newsletter</a> and/or <a href="./rss.xml">follow this request's RSS feed</a></i></small>.</p>
+    </div>
+    {{ if .Params.updates }}
+    <div class="updates">
+        <h3>Updates</h3>
+        <ul class="updates-list">
+        {{ range (sort .Params.updates "date" "desc") }}
+           {{ partial "request-update.html" . }}
+        {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+</article>
+{{ end }}

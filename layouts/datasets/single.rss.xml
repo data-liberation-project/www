@@ -1,0 +1,33 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- $last_date := .Date }}
+{{- $updates := slice }}
+{{- if .Params.updates }}
+  {{- $updates = (sort .Params.updates "date" "desc") }}
+  {{- $last_date = (index $updates 0).date }}
+{{- end }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: {{ .Title }} [Dataset]</title>
+    <link>{{ .Permalink }}</link>
+    <description>Updates on the Data Liberation Project's {{ .Title }} dataset</description>
+    <generator>Hugo</generator>
+    <language>{{.Site.LanguageCode}}</language>
+    <lastBuildDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" $last_date | safeHTML }}</lastBuildDate>
+    {{- with .OutputFormats.Get "RSS" -}}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{- end -}}
+    {{- $page := . }}
+    {{- if $updates }} 
+    {{- range $updates }}
+    <item>
+      <title>{{ .title }}</title>
+      <link>{{ $page.Permalink }}#update-{{ .title | urlize }}</link>
+      <pubDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" .date | safeHTML }}</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>{{ $page.Permalink }}#update-{{ .title | urlize }}</guid>
+      <description>{{ .body | markdownify | html }}</description>
+    </item>
+    {{ end }}
+    {{ end }}
+  </channel>
+</rss>

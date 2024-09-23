@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: DOL File Plans and EIS Listings [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/dol-file-plans-and-eis-listings/</link>
+    <description>Updates on the Data Liberation Project's DOL File Plans and EIS Listings request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2023 08:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/dol-file-plans-and-eis-listings/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Records Published</title>
+      <link>https://www.data-liberation-project.org/requests/dol-file-plans-and-eis-listings/#update-records-published</link>
+      <pubDate>Wed, 05 Jul 2023 08:00:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/dol-file-plans-and-eis-listings/#update-records-published</guid>
+      <description>On July 5, 2023, the Data Liberation Project &lt;a href=&#34;https://www.data-liberation-project.org/documents/dol-file-plans-and-eis-listings/&#34;&gt;published the records received&lt;/a&gt;, along with a spreadsheet cataloging those documents.</description>
+    </item>
+    
+    <item>
+      <title>Records Provided</title>
+      <link>https://www.data-liberation-project.org/requests/dol-file-plans-and-eis-listings/#update-records-provided</link>
+      <pubDate>Fri, 16 Jun 2023 08:56:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/dol-file-plans-and-eis-listings/#update-records-provided</guid>
+      <description>On June 16, 2023, DOL provided records responsive to this request.</description>
+    </item>
+    
+    <item>
+      <title>Request Acknowledged</title>
+      <link>https://www.data-liberation-project.org/requests/dol-file-plans-and-eis-listings/#update-request-acknowledged</link>
+      <pubDate>Tue, 09 May 2023 11:14:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/dol-file-plans-and-eis-listings/#update-request-acknowledged</guid>
+      <description>On May 9, 2023, DOL acknowledged this request via email, and assigned it tracking number 2023-F-08834.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

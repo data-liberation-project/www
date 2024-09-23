@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: EEOC Integrated Mission System Documentation [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/</link>
+    <description>Updates on the Data Liberation Project's EEOC Integrated Mission System Documentation request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2023 19:51:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/eeoc-ims-documentation/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Set of Records Provided</title>
+      <link>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/#update-second-set-of-records-provided</link>
+      <pubDate>Tue, 31 Oct 2023 19:51:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/#update-second-set-of-records-provided</guid>
+      <description>On October 31, 2023, the EEOC provided a &amp;ldquo;&lt;a href=&#34;https://www.documentcloud.org/documents/24116559-2023-10-31-20231030_interim2lod-820-2023-002324&#34;&gt;second interim production&lt;/a&gt;&amp;rdquo; of records responsive to this request. It consists of &lt;a href=&#34;https://www.documentcloud.org/documents/24116560-2023-10-31-820-2023-002324-interim-2-responsive-documents&#34;&gt;one 650-page PDF&lt;/a&gt; that appears be an Oracle database schema for EEOC&amp;rsquo;s IMS database; it lists the names, columns, and column constraints of 600+ tables. Based on the table names referenced, it seems to describe a different database system than the records provided in the first interim production.</description>
+    </item>
+    
+    <item>
+      <title>Estimated Date of Completion Provided</title>
+      <link>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/#update-estimated-date-of-completion-provided</link>
+      <pubDate>Sun, 04 Jun 2023 18:34:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/#update-estimated-date-of-completion-provided</guid>
+      <description>On June 4, 2023, in response to an inquiry by the Data Liberation Project, the EEOC provided an estimated completion date of August 31, 2023, and noted that &amp;ldquo;Draft redactions have been prepared by our office and those redactions are under review by OIT and OFP at this time.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>First Set of Records Provided</title>
+      <link>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/#update-first-set-of-records-provided</link>
+      <pubDate>Thu, 23 Feb 2023 11:35:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/#update-first-set-of-records-provided</guid>
+      <description>On February 23, 2023, the EEOC provided the &amp;ldquo;&lt;a href=&#34;https://www.documentcloud.org/documents/23689387-2023-02-23-20230223_firstinterimlod-820-2023-002324&#34;&gt;first interim production&lt;/a&gt;&amp;rdquo; of records responsive to this request. It consists of &lt;a href=&#34;https://www.documentcloud.org/documents/23689388-2023-02-23-820-2023-002324-interim-1-responsive-documents&#34;&gt;one PDF&lt;/a&gt;, which appears to be an entity relationship diagram listing database tables, column names, and the relationships between them.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Records Under FOIA Review</title>
+      <link>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/#update-responsive-records-under-foia-review</link>
+      <pubDate>Fri, 03 Feb 2023 09:42:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/#update-responsive-records-under-foia-review</guid>
+      <description>On February 3, 2023, an EEOC attorney emailed the Data Liberation Project with an update: &amp;ldquo;The documents have been provided to the FOIA office and we have begun our review. Due to the number of pages provided, and the busy schedule in the department, we will likely need a couple of months to process the documents and have them ready to provide to you.&amp;rdquo; The Data Liberation Project has responded to request that the records be provided on a rolling basis.</description>
+    </item>
+    
+    <item>
+      <title>Request Acknowledged, Placed on &#34;Complex Track&#34;</title>
+      <link>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/#update-request-acknowledged-placed-on-complex-track</link>
+      <pubDate>Mon, 12 Dec 2022 16:55:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/#update-request-acknowledged-placed-on-complex-track</guid>
+      <description>On December 12, 2022, the EEOC provided an &lt;a href=&#34;https://www.documentcloud.org/documents/23451151-2022-12-12-20221212-ackltr-820-2023-002324&#34;&gt;acknowledgment letter 📄&lt;/a&gt; regarding this request, which has been assigned to the &amp;ldquo;complex&amp;rdquo; processing track.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: Oil Spill Response Costs [Dataset]</title>
+    <link>https://www.data-liberation-project.org/documents/uscg-oil-spill-response-costs/</link>
+    <description>Updates on the Data Liberation Project's Oil Spill Response Costs documents</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 00:16:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/documents/uscg-oil-spill-response-costs/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

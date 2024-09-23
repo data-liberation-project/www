@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: Work Stoppages [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/fmcs-work-stoppages/</link>
+    <description>Updates on the Data Liberation Project's Work Stoppages request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Feb 2023 10:02:00 -0500</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/fmcs-work-stoppages/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Partial Grant</title>
+      <link>https://www.data-liberation-project.org/requests/fmcs-work-stoppages/#update-partial-grant</link>
+      <pubDate>Thu, 09 Feb 2023 10:02:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/fmcs-work-stoppages/#update-partial-grant</guid>
+      <description>On February 9, 2023, FMCS’s FOIA office &lt;a href=&#34;https://www.documentcloud.org/documents/23622117-2023-02-09-foia-partial-grant&#34;&gt;responded&lt;/a&gt; with a “partial grant,” providing the Data Liberation Project with just one documentation file, and withholding all other records. “There are 733 pages of records fully redacted under FOIA Exemption 4 and 6,” according the agency’s letter. In the meantime, we’ve &lt;a href=&#34;https://github.com/data-liberation-project/fmcs-work-stoppage-records&#34;&gt;uploaded the one file&lt;/a&gt; the agency did provide: An Excel spreadsheet named “Prod Schema.xlsx”. (The Data Liberation Project intended to appeal the decision, but ultimately missed the deadline to do so.)</description>
+    </item>
+    
+    <item>
+      <title>Extension Letter</title>
+      <link>https://www.data-liberation-project.org/requests/fmcs-work-stoppages/#update-extension-letter</link>
+      <pubDate>Wed, 25 Jan 2023 14:12:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/fmcs-work-stoppages/#update-extension-letter</guid>
+      <description>On January 25, 2023, FMCS emailed &lt;a href=&#34;https://www.documentcloud.org/documents/23586874-2023-01-25-foia-extension-letter&#34;&gt;a letter 📄&lt;/a&gt; &amp;ldquo;notifying you of an extension of our time to respond by 10 business days due to the following reason as provided by 5 U.S.C. § 552(a)(6)(B)(i): The need to search for and collect the requested records from field facilities or other establishments that are separate from the office processing the request.&amp;rdquo;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

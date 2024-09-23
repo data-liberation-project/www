@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documents on The Data Liberation Project</title>
+    <link>https://www.data-liberation-project.org/documents/</link>
+    <description>Recent content in Documents on The Data Liberation Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 00:16:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/documents/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oil Spill Response Costs</title>
+      <link>https://www.data-liberation-project.org/documents/uscg-oil-spill-response-costs/</link>
+      <pubDate>Mon, 12 Aug 2024 00:16:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/documents/uscg-oil-spill-response-costs/</guid>
+      <description>Incident reports, contractor authorizations, invoices, and other documents related to Coast Guard–administered oil spill responses.</description>
+    </item>
+    
+    <item>
+      <title>FEMA Disaster Housing Database Documentation</title>
+      <link>https://www.data-liberation-project.org/documents/fema-disaster-housing/</link>
+      <pubDate>Tue, 23 Apr 2024 00:01:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/documents/fema-disaster-housing/</guid>
+      <description>Documentation of database systems FEMA uses to track the “direct housing” assistance the agency provides people affected by major disasters.</description>
+    </item>
+    
+    <item>
+      <title>USDA Food Purchase Database Documentation</title>
+      <link>https://www.data-liberation-project.org/documents/usda-food-purchases/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/documents/usda-food-purchases/</guid>
+      <description>Records documenting the USDA&amp;rsquo;s Web Based Supply Chain Management System, used for coordinating the purchase and distribution of federal food and commodity orders.</description>
+    </item>
+    
+    <item>
+      <title>USDA Data Inventories</title>
+      <link>https://www.data-liberation-project.org/documents/usda-data-inventories/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/documents/usda-data-inventories/</guid>
+      <description>A spreadsheet listing nearly 3,000 active, retired, and proposed Department of Agriculture databases and information systems.</description>
+    </item>
+    
+    <item>
+      <title>DOL File Plans and EIS Listings</title>
+      <link>https://www.data-liberation-project.org/documents/dol-file-plans-and-eis-listings/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/documents/dol-file-plans-and-eis-listings/</guid>
+      <description>Department of Labor files describing the physical/digital locations of key records, plus listings of the agency&amp;rsquo;s major &amp;ldquo;electronic information systems&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>CFBP Enforcement Database Documentation</title>
+      <link>https://www.data-liberation-project.org/documents/cfpb-enforcement-database-documentation/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/documents/cfpb-enforcement-database-documentation/</guid>
+      <description>A six-page document describing the structure of &lt;code&gt;ENForce&lt;/code&gt;, CFPB&amp;rsquo;s “enforcement matter management system.”</description>
+    </item>
+    
+    <item>
+      <title>EEOC Integrated Mission System Documentation</title>
+      <link>https://www.data-liberation-project.org/documents/eeoc-ims-documentation/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/documents/eeoc-ims-documentation/</guid>
+      <description>Documentation of the main database that the Equal Employment Opportunity Commission uses to track discrimination complaints and investigations.</description>
+    </item>
+    
+    <item>
+      <title>FMCS Case Management System Schema</title>
+      <link>https://www.data-liberation-project.org/documents/fmcs-case-management-system-schema/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/documents/fmcs-case-management-system-schema/</guid>
+      <description>A database schema provided by the Federal Mediation and Conciliation Service, appearing to document the agency&amp;rsquo;s case management system.</description>
+    </item>
+    
+  </channel>
+</rss>

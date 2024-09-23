@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Records Requests on The Data Liberation Project</title>
+    <link>https://www.data-liberation-project.org/requests/</link>
+    <description>Recent content in Records Requests on The Data Liberation Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Federal Inmate Deaths</title>
+      <link>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/</guid>
+      <description>We’re data records representing each federal inmate death from 2005 to the present.</description>
+    </item>
+    
+    <item>
+      <title>Excess Defense Article Transfers</title>
+      <link>https://www.data-liberation-project.org/requests/dod-excess-defense-article-transfers/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/dod-excess-defense-article-transfers/</guid>
+      <description>We’re requesting an updated copy of the Department of Defense&amp;rsquo;s Excess Defense Articles transfer database.</description>
+    </item>
+    
+    <item>
+      <title>Army Slot Machines</title>
+      <link>https://www.data-liberation-project.org/requests/dod-army-slot-machines/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/dod-army-slot-machines/</guid>
+      <description>We&amp;rsquo;re requesting detailing the presence, operation, and finances of slot machines on military property.</description>
+    </item>
+    
+    <item>
+      <title>Housing Discrimination Complaints and Cases</title>
+      <link>https://www.data-liberation-project.org/requests/hud-fair-housing-complaints-and-cases/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/hud-fair-housing-complaints-and-cases/</guid>
+      <description>We’re requesting records from HUD databases that track complaints by people alleging housing discrimination and the agency&amp;rsquo;s inquiries into those cases.</description>
+    </item>
+    
+    <item>
+      <title>Political Candidates’ Airline Credit</title>
+      <link>https://www.data-liberation-project.org/requests/dot-political-candidate-airline-credit/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/dot-political-candidate-airline-credit/</guid>
+      <description>We’re requesting records submitted by airlines regarding credit they&amp;rsquo;ve extended to political candidates for federal office.</description>
+    </item>
+    
+    <item>
+      <title>Medicare &#34;Level 2&#34; Appeals</title>
+      <link>https://www.data-liberation-project.org/requests/cms-medicare-appeals-level-2/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/cms-medicare-appeals-level-2/</guid>
+      <description>We’re requesting database records tracking the circumstances and outcomes of patients&amp;rsquo; appeals of Medicare insurance decisions.</description>
+    </item>
+    
+    <item>
+      <title>Medicare Appeals System (MAS) Documentation</title>
+      <link>https://www.data-liberation-project.org/requests/cms-medicare-appeals-system-documentation/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/cms-medicare-appeals-system-documentation/</guid>
+      <description>We’re requesting records that document the functionality of CMS’s Medicare Appeals System.</description>
+    </item>
+    
+    <item>
+      <title>USDA Organic Program Enforcement</title>
+      <link>https://www.data-liberation-project.org/requests/usda-organic-program-enforcement/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/usda-organic-program-enforcement/</guid>
+      <description>We’re requesting records from the National Organic Program’s enforcement database.</description>
+    </item>
+    
+    <item>
+      <title>Animal Welfare Investigations (APHIS ITEMS)</title>
+      <link>https://www.data-liberation-project.org/requests/usda-aphis-investigations-and-enforcement/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/usda-aphis-investigations-and-enforcement/</guid>
+      <description>We’re requesting records from Animal and Plant Health Inspection Service’s Investigation Tracking and Enforcement Management System (ITEMS).</description>
+    </item>
+    
+    <item>
+      <title>DOD Child and Domestic Abuse Incidents</title>
+      <link>https://www.data-liberation-project.org/requests/dod-child-and-domestic-abuse-incidents/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/dod-child-and-domestic-abuse-incidents/</guid>
+      <description>We&amp;rsquo;re requesting records from the Department of Defense&amp;rsquo;s child and domestic abuse incident reporting system.</description>
+    </item>
+    
+    <item>
+      <title>Collective Bargaining Notices (FMCS F-7)</title>
+      <link>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/</guid>
+      <description>We&amp;rsquo;re requesting detailed data on notices of &amp;ldquo;upcoming collective bargaining&amp;rdquo; submitted to federal labor mediators.</description>
+    </item>
+    
+    <item>
+      <title>Defense Sexual Assault Incident Database (DSAID)</title>
+      <link>https://www.data-liberation-project.org/requests/dod-sexual-assault-incident-database/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/dod-sexual-assault-incident-database/</guid>
+      <description>We’re requesting data from the Department of Defense&amp;rsquo;s &amp;ldquo;authoritative, centralized case-level database used to collect and maintain information on sexual assaults involving members of the Armed Forces.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>CFPB Enforcement Matters</title>
+      <link>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/</guid>
+      <description>We&amp;rsquo;re requesting database records representing the Consumer Financial Protection Bureau&amp;rsquo;s enforcement efforts.</description>
+    </item>
+    
+    <item>
+      <title>USPS Rural Route Evaluations</title>
+      <link>https://www.data-liberation-project.org/requests/usps-rural-route-evaluations/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/usps-rural-route-evaluations/</guid>
+      <description>We&amp;rsquo;re requesting data the Postal Service uses in determining compensation for rural mail carriers.</description>
+    </item>
+    
+    <item>
+      <title>Bills of Lading (Cargo Manifests)</title>
+      <link>https://www.data-liberation-project.org/requests/cbp-bills-of-lading/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/cbp-bills-of-lading/</guid>
+      <description>We&amp;rsquo;re requesting comprehensive records on the cargo shipped into and out of the United States.</description>
+    </item>
+    
+    <item>
+      <title>Public Housing Tenant Terminations</title>
+      <link>https://www.data-liberation-project.org/requests/hud-tenant-terminations/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/hud-tenant-terminations/</guid>
+      <description>We&amp;rsquo;re requesting data on public housing authorities&amp;rsquo; removals of tenants from public and subsidized housing.</description>
+    </item>
+    
+    <item>
+      <title>Student Loan Cancer Treatment Deferments</title>
+      <link>https://www.data-liberation-project.org/requests/student-loan-cancer-treatment-deferments/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/student-loan-cancer-treatment-deferments/</guid>
+      <description>We&amp;rsquo;re requesting data on cancer treatment deferment requests by borrowers of student loans.</description>
+    </item>
+    
+    <item>
+      <title>Peace Corps Resignations</title>
+      <link>https://www.data-liberation-project.org/requests/peace-corps-resignations/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/peace-corps-resignations/</guid>
+      <description>We&amp;rsquo;re requesting database records from the Peace Corps indicating volunteers&amp;rsquo; reasons for resignation.</description>
+    </item>
+    
+    <item>
+      <title>Military Housing: Environmental Health &amp; Safety</title>
+      <link>https://www.data-liberation-project.org/requests/dod-military-housing-environmental-health/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/dod-military-housing-environmental-health/</guid>
+      <description>We’re requesting data from the &amp;ldquo;environmental health and safety module&amp;rdquo; of the database the Department of Defense uses to track its housing assets.</description>
+    </item>
+    
+    <item>
+      <title>DOL File Plans and EIS Listings</title>
+      <link>https://www.data-liberation-project.org/requests/dol-file-plans-and-eis-listings/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/dol-file-plans-and-eis-listings/</guid>
+      <description>We&amp;rsquo;re requesting all Department of Labor &amp;ldquo;file plans&amp;rdquo; and electronic information system listings.</description>
+    </item>
+    
+    <item>
+      <title>National Adult Maltreatment Reporting System</title>
+      <link>https://www.data-liberation-project.org/requests/acl-adult-maltreatment-reporting-system/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/acl-adult-maltreatment-reporting-system/</guid>
+      <description>We’re requesting data from “the first comprehensive, national reporting system for adult protective services programs.”</description>
+    </item>
+    
+    <item>
+      <title>CFPB Enforcement Database Documentation</title>
+      <link>https://www.data-liberation-project.org/requests/cfpb-enforcement-database-documentation/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/cfpb-enforcement-database-documentation/</guid>
+      <description>We&amp;rsquo;re requesting documentation of the Consumer Financial Protection Bureau&amp;rsquo;s database tracking its enforcement efforts.</description>
+    </item>
+    
+    <item>
+      <title>National Water Use Inventory</title>
+      <link>https://www.data-liberation-project.org/requests/doi-water-use-inventory/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/doi-water-use-inventory/</guid>
+      <description>We&amp;rsquo;re requesting a copy of the “comprehensive national water use inventory” mandated by Secure Water Act of 2009.</description>
+    </item>
+    
+    <item>
+      <title>Commercial Fishing Incident Database</title>
+      <link>https://www.data-liberation-project.org/requests/niosh-commercial-fishing-incident-database/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/niosh-commercial-fishing-incident-database/</guid>
+      <description>We’re requesting a national database of “fatalities and vessel disasters that occur in the US fishing industry.”</description>
+    </item>
+    
+    <item>
+      <title>USDA Data Inventories</title>
+      <link>https://www.data-liberation-project.org/requests/usda-data-inventories/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/usda-data-inventories/</guid>
+      <description>We&amp;rsquo;re requesting Department of Agriculture records describing its inventories of data and &amp;ldquo;major information systems.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>“Acute Hospital Care at Home” Data</title>
+      <link>https://www.data-liberation-project.org/requests/cms-acute-hospital-care-at-home/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/cms-acute-hospital-care-at-home/</guid>
+      <description>We&amp;rsquo;re requesting data from a recent CMS program &amp;ldquo;providing eligible hospitals with unprecedented regulatory flexibilities to treat eligible patients in their homes.”</description>
+    </item>
+    
+    <item>
+      <title>Boating Accident Report Database</title>
+      <link>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/</guid>
+      <description>We&amp;rsquo;re requesting the Coast Guard&amp;rsquo;s national database of recreational boating accidents.</description>
+    </item>
+    
+    <item>
+      <title>Elevated Blood Lead Levels In Public Housing</title>
+      <link>https://www.data-liberation-project.org/requests/hud-elevated-blood-lead-level-tracker/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/hud-elevated-blood-lead-level-tracker/</guid>
+      <description>We&amp;rsquo;re requesting the database HUD uses to track elevated blood lead levels in children living in public and voucher-based housing.</description>
+    </item>
+    
+    <item>
+      <title>DOI Data Inventories</title>
+      <link>https://www.data-liberation-project.org/requests/doi-data-inventories/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/doi-data-inventories/</guid>
+      <description>We&amp;rsquo;re requesting Department of the Interior records describing its inventories of data and &amp;ldquo;major information systems.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Work Stoppages</title>
+      <link>https://www.data-liberation-project.org/requests/fmcs-work-stoppages/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/fmcs-work-stoppages/</guid>
+      <description>We&amp;rsquo;re requesting data collected by federal mediators on the characteristics of work stoppages (strikes and lockouts).</description>
+    </item>
+    
+    <item>
+      <title>Oil Spill Response Costs</title>
+      <link>https://www.data-liberation-project.org/requests/oil-spill-response-costs/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/oil-spill-response-costs/</guid>
+      <description>We&amp;rsquo;re requesting data related to the costs of oil spill responses, collected through several Coast Guard forms.</description>
+    </item>
+    
+    <item>
+      <title>USDA Food Purchases</title>
+      <link>https://www.data-liberation-project.org/requests/usda-food-purchases/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/usda-food-purchases/</guid>
+      <description>We&amp;rsquo;re requesting the database that USDA uses to track food purchased for the National School Lunch Program and other major initiatives.</description>
+    </item>
+    
+    <item>
+      <title>EEOC Integrated Mission System Documentation</title>
+      <link>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/eeoc-ims-documentation/</guid>
+      <description>We&amp;rsquo;re requesting documentation of the main database that the Equal Employment Opportunity Commission uses to track discrimination complaints and investigations.</description>
+    </item>
+    
+    <item>
+      <title>Lead Paint Remediation In Public Housing</title>
+      <link>https://www.data-liberation-project.org/requests/lead-based-paint-response-tracker/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/lead-based-paint-response-tracker/</guid>
+      <description>We&amp;rsquo;re requesting the database HUD uses to track progress abating lead-based paint hazards in public housing.</description>
+    </item>
+    
+    <item>
+      <title>Long COVID Questionnaire Responses</title>
+      <link>https://www.data-liberation-project.org/requests/long-covid-questionnaire-responses/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/long-covid-questionnaire-responses/</guid>
+      <description>We&amp;rsquo;re requesting questionnaire responses collected through the government&amp;rsquo;s flagship study of adults with Long COVID, part the billion-dollar RECOVER Initiative.</description>
+    </item>
+    
+    <item>
+      <title>Automated Targeting System Documentation</title>
+      <link>https://www.data-liberation-project.org/requests/automated-targeting-system-documentation/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/automated-targeting-system-documentation/</guid>
+      <description>We&amp;rsquo;re requesting documentation of a major Customs and Border Protection database.</description>
+    </item>
+    
+    <item>
+      <title>Unaccompanied Children: Oversight Records</title>
+      <link>https://www.data-liberation-project.org/requests/unaccompanied-children-oversight-records/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/unaccompanied-children-oversight-records/</guid>
+      <description>We&amp;rsquo;re requesting Office of Refugee Resettlement records relating to the care of unaccompanied children.</description>
+    </item>
+    
+    <item>
+      <title>EPA Risk Management Program Database</title>
+      <link>https://www.data-liberation-project.org/requests/epa-risk-management-program/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/epa-risk-management-program/</guid>
+      <description>We&amp;rsquo;re requesting the EPA&amp;rsquo;s Risk Management Program (RMP) database, which contains risk management plans and accident histories submitted by &amp;ldquo;facilities that use extremely hazardous substances.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Federal Inmate Complaints</title>
+      <link>https://www.data-liberation-project.org/requests/federal-inmate-complaints/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/federal-inmate-complaints/</guid>
+      <description>We&amp;rsquo;re requesting data stored in one particular component of the Bureau of Prison&amp;rsquo;s SENTRY database — records that track inmates&amp;rsquo; formal complaints and the agency&amp;rsquo;s responses.</description>
+    </item>
+    
+    <item>
+      <title>SSVF Satisfaction Surveys</title>
+      <link>https://www.data-liberation-project.org/requests/ssvf-satisfaction-surveys/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/ssvf-satisfaction-surveys/</guid>
+      <description>We&amp;rsquo;re requesting data from the satisfaction surveys that providers in the VA&amp;rsquo;s Supportive Services for Veteran Families program must send to recently-exited participants.</description>
+    </item>
+    
+    <item>
+      <title>Public Housing Inspections</title>
+      <link>https://www.data-liberation-project.org/requests/public-housing-inspections/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:04 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/public-housing-inspections/</guid>
+      <description>We&amp;rsquo;re requesting a HUD database that contains all the inspections of public housing properties in the US, including each property&amp;rsquo;s detailed scores and deficiencies.</description>
+    </item>
+    
+    <item>
+      <title>FEMA Disaster Housing</title>
+      <link>https://www.data-liberation-project.org/requests/fema-disaster-housing/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:02 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/fema-disaster-housing/</guid>
+      <description>We&amp;rsquo;re requesting the database that FEMA uses to track the &amp;ldquo;direct housing&amp;rdquo; assistance it provides to people affected by major disasters.</description>
+    </item>
+    
+    <item>
+      <title>Radiation Exposure Compensation Claims</title>
+      <link>https://www.data-liberation-project.org/requests/radiation-exposure-compensation/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:02 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/radiation-exposure-compensation/</guid>
+      <description>We&amp;rsquo;re requesting data on all Radiation Exposure Compensation Act claims filed, as well as the government&amp;rsquo;s handling of those claims.</description>
+    </item>
+    
+    <item>
+      <title>Student Loan Data Documentation</title>
+      <link>https://www.data-liberation-project.org/requests/student-loan-data-documentation/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:01 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/student-loan-data-documentation/</guid>
+      <description>We&amp;rsquo;re requesting database documentation for several major Department of Education systems that track student loans.</description>
+    </item>
+    
+    <item>
+      <title>Theft and Loss of Controlled Substances</title>
+      <link>https://www.data-liberation-project.org/requests/controlled-substance-theft-and-loss/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/controlled-substance-theft-and-loss/</guid>
+      <description>We&amp;rsquo;re requesting database records from the DEA&amp;rsquo;s Theft Loss Reporting system, which collects information about controlled substances that have gone missing.</description>
+    </item>
+    
+  </channel>
+</rss>

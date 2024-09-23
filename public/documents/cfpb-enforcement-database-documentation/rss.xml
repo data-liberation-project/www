@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: CFBP Enforcement Database Documentation [Dataset]</title>
+    <link>https://www.data-liberation-project.org/documents/cfpb-enforcement-database-documentation/</link>
+    <description>Updates on the Data Liberation Project's CFBP Enforcement Database Documentation documents</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/documents/cfpb-enforcement-database-documentation/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

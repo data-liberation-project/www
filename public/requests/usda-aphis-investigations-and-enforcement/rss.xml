@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: Animal Welfare Investigations (APHIS ITEMS) [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/usda-aphis-investigations-and-enforcement/</link>
+    <description>Updates on the Data Liberation Project's Animal Welfare Investigations (APHIS ITEMS) request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Nov 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/usda-aphis-investigations-and-enforcement/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

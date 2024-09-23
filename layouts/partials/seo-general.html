@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+  {
+      "@context" : "http://schema.org",
+      "@type" : "CreativeWork",
+      "mainEntityOfPage": {
+           "@type": "WebPage",
+           "@id": "{{ .Site.BaseURL }}"
+      },
+      {{ if .IsHome }}
+      "name" : "{{ .Title }}",
+      "description" : "{{ .Site.Params.Description | plainify }}",
+      "keywords" : [ {{ delimit .Site.Params.Keywords ", " }} ],
+      {{ else }}
+      "name" : "{{.Site.Title}} – {{ .Title }}",
+      "description" : "{{ .Description | plainify }}",
+      {{ if (isset .Params "keywords") }}
+      "keywords" : [ {{ delimit .Keywords ", " }} ]
+      {{ end }}
+      {{ end }}
+      "inLanguage" : "en-US",
+      "author" : "{{ .Site.Author.name }}",
+      "creator" : "{{ .Site.Author.name }}",
+      "publisher": "{{ .Site.Author.name }}",
+      "accountablePerson" : "{{ .Site.Author.name }}",
+      "copyrightHolder" : "{{ .Site.Author.name }}",
+      "copyrightYear" : "{{ .Date.Format "2006" }}",
+      "datePublished": "{{ .Date | dateFormat "2006-01-02" }}",
+      "dateModified" : "{{ .Date | dateFormat "2006-01-02"  }}",
+      "url" : "{{ .Permalink }}"
+  }
+</script>

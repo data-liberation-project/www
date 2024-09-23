@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ partial "page-header.html" . }}
+<div class="metadata">
+    <div class="metadata-item"><div class="metadata-label">First published</div><div class="metadata-value"> {{ .Date.Format "January 2, 2006" }}</div></div>
+    {{ if .Params.last_updated }}
+    <div class="metadata-item"><div class="metadata-label">Last updated</div><div class="metadata-value">{{ time.Format "January 2, 2006" .Params.last_updated }}</div></div>
+    {{ end }}
+    <div class="metadata-item"><div class="metadata-label">Data through</div><div class="metadata-value">{{ .Params.data_through }}</div></div>
+    <div class="metadata-item"><div class="metadata-label">Update frequency</div><div class="metadata-value">{{ .Params.update_freq }}</div></div>
+    <div class="metadata-item">
+        <div class="metadata-label">Entry point</div>
+        <div class="metadata-value">
+            <a href="{{ .Params.entrypoint.href }}">{{ .Params.entrypoint.title }}</a>
+        </div>
+    </div>
+</div>
+<article>
+    <div class="post">
+        {{ .Content }}
+    </div>
+    {{ if .Params.updates }}
+    <div class="updates">
+        <h3>Updates</h3>
+        <ul class="updates-list">
+        {{ range (sort .Params.updates "date" "desc") }}
+           {{ partial "request-update.html" . }}
+        {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+    <div class="newsletter-callout">
+        <p><small><i>To receive further updates on this dataset, <a href="https://docs.google.com/forms/d/e/1FAIpQLSed3bOZxgNwgMKGQIdPHsb8my4m1b-puK92pySui3EW6Xmkbw/viewform?usp=pp_url&entry.585356262={{ .Permalink }}" target="_blank">please register your interest here</a> and/or <a href="./rss.xml">follow this RSS feed</a></i></small>.</p>
+    </div>
+</article>
+{{ end }}

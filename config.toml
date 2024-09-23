@@ -1,0 +1,26 @@
+baseURL = "https://www.data-liberation-project.org/"
+languageCode = "en-us"
+title = "The Data Liberation Project"
+disableKinds = ["taxonomy", "taxonomyTerm", "term"]
+relativeURLs = true
+
+[author]
+name = "Jeremy Singer-Vine"
+
+
+[params]
+mainSections = []
+keywords = [ "data liberation", "government data", "government databases", "foia" ]
+description = "The Data Liberation Project is an initiative to identify, obtain, reformat, clean, document, publish, and disseminate government datasets of public interest."
+
+
+[permalinks]
+updates = "/updates/:year/:month/:slug"
+requests = "/requests/:filename"
+datasets = "/datasets/:filename"
+singleton = "/:filename"
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "rss"

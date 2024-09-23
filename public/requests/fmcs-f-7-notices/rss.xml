@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: Collective Bargaining Notices (FMCS F-7) [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/</link>
+    <description>Updates on the Data Liberation Project's Collective Bargaining Notices (FMCS F-7) request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Mar 2024 16:16:00 -0500</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/fmcs-f-7-notices/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appeal Denied</title>
+      <link>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/#update-appeal-denied</link>
+      <pubDate>Thu, 07 Mar 2024 16:16:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/#update-appeal-denied</guid>
+      <description>On March 7, 2024, &lt;a href=&#34;https://www.documentcloud.org/documents/24554494-2024-03-07-2024-app-00033&#34;&gt;FMCS denied our appeal 📄&lt;/a&gt;, determining that the redactions applied to the records were justified and that &amp;ldquo;identifiers were not withheld, rather they did not exist.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Appeal Filed</title>
+      <link>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/#update-appeal-filed</link>
+      <pubDate>Fri, 09 Feb 2024 19:00:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/#update-appeal-filed</guid>
+      <description>On February 9, 2024, we &lt;a href=&#34;https://www.documentcloud.org/documents/24415944-2024-02-09-appeal-of-fmcs-foia-2024-00009&#34;&gt;submitted an appeal 📄&lt;/a&gt; to FMCS regarding this case.</description>
+    </item>
+    
+    <item>
+      <title>Initial Response Received, Records Largely Withheld</title>
+      <link>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/#update-initial-response-received-records-largely-withheld</link>
+      <pubDate>Wed, 10 Jan 2024 15:56:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/#update-initial-response-received-records-largely-withheld</guid>
+      <description>On January 10, 2024, FMCS emailed its &lt;a href=&#34;https://www.documentcloud.org/documents/24401529-2024-01-10-foia-partial-grant&#34;&gt;response to our request 📄&lt;/a&gt;. The agency provided a large CSV file, with most of its content redacted, arguing that (1) “some of the records are exempt” via a “mediation privilege”, and (2) “some responsive records constitute confidential commercial or financial information”. The remaining, non-withheld records appear to be those already available through the &lt;a href=&#34;https://www.fmcs.gov/resources/documents-and-data/&#34;&gt;F-7 spreadsheets FMCS already publishes online&lt;/a&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Second Request Acknowledgment</title>
+      <link>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/#update-second-request-acknowledgment</link>
+      <pubDate>Fri, 27 Oct 2023 13:12:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/#update-second-request-acknowledgment</guid>
+      <description>On October 27, 2023, FMCS emailed &lt;a href=&#34;https://www.documentcloud.org/documents/24089899-2023-10-27-foia-acknowledgment-letter&#34;&gt;a letter 📄&lt;/a&gt; acknowledging this request and assigning it tracking number FOIA-2024-00009.</description>
+    </item>
+    
+    <item>
+      <title>Request Acknowledged</title>
+      <link>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/#update-request-acknowledged</link>
+      <pubDate>Mon, 11 Sep 2023 09:08:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/fmcs-f-7-notices/#update-request-acknowledged</guid>
+      <description>On September 11, 2023, FMCS sent an email acknowledging this request and assigning it tracking number FOIA-2023-00045.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

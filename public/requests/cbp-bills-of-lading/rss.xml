@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: Bills of Lading (Cargo Manifests) [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/cbp-bills-of-lading/</link>
+    <description>Updates on the Data Liberation Project's Bills of Lading (Cargo Manifests) request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Apr 2023 10:31:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/cbp-bills-of-lading/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Request Rejected</title>
+      <link>https://www.data-liberation-project.org/requests/cbp-bills-of-lading/#update-request-rejected</link>
+      <pubDate>Fri, 28 Apr 2023 10:31:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/cbp-bills-of-lading/#update-request-rejected</guid>
+      <description>On April 28, 2023, CBP &lt;a href=&#34;https://www.documentcloud.org/documents/23808142-2023-04-28-cbp-foia-cbp-fo-2023-075587&#34;&gt;emailed a rejection letter 📄&lt;/a&gt;, saying that the records are unavailable via FOIA. This statement seems to contradict the evidence, &lt;a href=&#34;https://www.documentcloud.org/documents/23790364-2023-04-27-dhscbp-ace-manifest-data-foia-request-singer-vine&#34;&gt;presented in the request letter&lt;/a&gt;, that such records have been obtained via FOIA before. The Data Liberation Project is seeking clarity on this matter.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

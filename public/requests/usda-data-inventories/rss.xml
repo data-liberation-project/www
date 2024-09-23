@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: USDA Data Inventories [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/usda-data-inventories/</link>
+    <description>Updates on the Data Liberation Project's USDA Data Inventories request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2023 08:30:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/usda-data-inventories/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Records Published</title>
+      <link>https://www.data-liberation-project.org/requests/usda-data-inventories/#update-records-published</link>
+      <pubDate>Fri, 04 Aug 2023 08:30:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/usda-data-inventories/#update-records-published</guid>
+      <description>On August 4, 2023, the Data Liberation Project &lt;a href=&#34;https://www.data-liberation-project.org/documents/usda-data-inventories&#34;&gt;published the spreadsheet&lt;/a&gt; received via this request.</description>
+    </item>
+    
+    <item>
+      <title>Records Provided</title>
+      <link>https://www.data-liberation-project.org/requests/usda-data-inventories/#update-records-provided</link>
+      <pubDate>Wed, 26 Jul 2023 16:25:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/usda-data-inventories/#update-records-provided</guid>
+      <description>On July 26, 2023, the USDA emailed a &lt;a href=&#34;https://www.documentcloud.org/documents/23894814-2023-07-26-2023-da-01942-f-final-response_x&#34;&gt;final response letter 📄&lt;/a&gt;. &amp;ldquo;The [Office of the Chief Information Officer] searched for records responsive to your request between January 1, 2013 and the present. The search identified one excel spreadsheet responsive to your request. The spreadsheet is being released to you in full, with no exemptions applied.&amp;rdquo; The letter also noted that the request tracking number had been changed from 2023-OSEC-01942-F to 2023-DA-01942-F &amp;ldquo;to accurately reflect the correct USDA action office.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Request Acknowledged</title>
+      <link>https://www.data-liberation-project.org/requests/usda-data-inventories/#update-request-acknowledged</link>
+      <pubDate>Wed, 08 Feb 2023 07:46:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/usda-data-inventories/#update-request-acknowledged</guid>
+      <description>On February 8, 2023, the USDA sent an &lt;a href=&#34;https://www.documentcloud.org/documents/23601706-2023-02-08-2023-osec-01942-f-foia-request-acknowledgement&#34;&gt;email 📄&lt;/a&gt; acknowledging the request, and categorizing the Data Liberation Project as a “news media” requester.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

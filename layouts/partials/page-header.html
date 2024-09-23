@@ -1,0 +1,26 @@
+<section class="page-header">
+    {{ $summary := "" }}
+    {{ if eq .Page.Type "singleton" }}
+        {{ $summary = .Summary }}
+    {{ else if isset .Params "summary" }}
+        {{ $summary = .Summary }}
+    {{ else if isset .Params "date" }}
+        {{ $summary = .Date.Format "Published January 2, 2006" }}
+    {{ else }}
+        {{ $summary = .RawContent }}
+    {{ end }}
+     
+    {{ $categories := (dict "requests" "Records Request") }}
+    {{ $category := "" }}
+    {{ if (and .IsPage (not (eq .Type "singleton"))) }}
+        {{ $category = .Type }}
+    {{ end }}
+
+    {{ partial "chip.html" (dict
+        "title" "The Data Liberation Project"
+        "category" (index $categories $category)
+        "subtitle" .Title
+        "summary" $summary
+        "isHome" .IsHome
+    ) }}
+</section>

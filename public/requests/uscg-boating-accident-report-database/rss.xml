@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: Boating Accident Report Database [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/</link>
+    <description>Updates on the Data Liberation Project's Boating Accident Report Database request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 18:45:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Records Published</title>
+      <link>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/#update-records-published</link>
+      <pubDate>Mon, 12 Aug 2024 18:45:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/#update-records-published</guid>
+      <description>On August 12, 2024, the Data Liberation Project &lt;a href=&#34;../../datasets/uscg-boating-accident-report-database/&#34;&gt;published the responsive records&lt;/a&gt; and &lt;a href=&#34;https://docs.google.com/document/d/1lk0dnACzcj3Yo6DAjZbGKf_zFYkymor5IDwNxypnZpc/edit&#34;&gt;documentation&lt;/a&gt; describing the data and providing guidance for using it.</description>
+    </item>
+    
+    <item>
+      <title>Records Provided</title>
+      <link>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/#update-records-provided</link>
+      <pubDate>Fri, 12 Jul 2024 14:50:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/#update-records-provided</guid>
+      <description>On July 12, 2024, USCG provided a set of responsive records, which the Data Liberation Project has begun reviewing.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

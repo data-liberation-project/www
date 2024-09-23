@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: CFPB Enforcement Matters [Records Request]</title>
+    <link>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/</link>
+    <description>Updates on the Data Liberation Project's CFPB Enforcement Matters request</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 17:39:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Additional Records Discovered And Withheld</title>
+      <link>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/#update-additional-records-discovered-and-withheld</link>
+      <pubDate>Wed, 26 Jun 2024 17:39:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/#update-additional-records-discovered-and-withheld</guid>
+      <description>On June 26, 2024, CFPB emailed a &lt;a href=&#34;https://www.documentcloud.org/documents/25038495-2024-06-26-cfpb-2023-0365-rem-determination-letter&#34;&gt;letter 📄&lt;/a&gt; denying access to additional records uncovered via the appeal-remanded search. It reads, in part: &amp;ldquo;A search of our Office of Enforcement identified records responsive to your May 30, 2023 request that were omitted from our September 18, 2023 response. However, these omitted records are withheld in full pursuant to 5 U.S.C. § 552(b)(7)(E). Additionally, due to the way the requested information is stored, it would create an undue burden on the CFPB to determine the amount of reasonably segregable data beyond what was previously released.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Appeal Partly Granted</title>
+      <link>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/#update-appeal-partly-granted</link>
+      <pubDate>Mon, 18 Dec 2023 12:54:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/#update-appeal-partly-granted</guid>
+      <description>On December 18, 2023, CFPB&amp;rsquo;s legal department &lt;a href=&#34;https://www.documentcloud.org/documents/24229211-2023-12-18-final-appellate-determination-letter_2023-0365-a&#34;&gt;provided a determination letter 📄&lt;/a&gt; in response to the Data Liberation Project&amp;rsquo;s November 16 appeal. The determination grants the appeal of CFPB&amp;rsquo;s handling of the data portion of the request: &amp;ldquo;Here, the FOIA Office appears to have determined it was releasing segregable portions of the requested records in response to the Request. Nonetheless, the FOIA Office did not indicate the amount of information deleted or explain the exemption under which the deletion was made. I therefore grant your appeal with respect to Part 1 of the Request and remand the Request to the FOIA Office to determine whether any additional reasonably segregable non-exempt records can be produced without the agency expending an unreasonable amount of time and resources, and to release any reasonably segregable non-exempt records that are not subject to any exemption.&amp;rdquo; The letter, however, denied the appeal for the second portion of the request, which sought training materials related to the database.</description>
+    </item>
+    
+    <item>
+      <title>Appeal Filed</title>
+      <link>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/#update-appeal-filed</link>
+      <pubDate>Thu, 16 Nov 2023 16:10:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/#update-appeal-filed</guid>
+      <description>On November 16, 2023, the Data Liberation Project &lt;a href=&#34;https://www.documentcloud.org/documents/24169701-2023-11-16-appeal-re-foia-request-cfpb-2023-0365-f-singer-vine&#34;&gt;submitted an appeal 📄&lt;/a&gt; to CFPB regarding this case, requesting that a more complete set of records be provided.</description>
+    </item>
+    
+    <item>
+      <title>Initial Response Received</title>
+      <link>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/#update-initial-response-received</link>
+      <pubDate>Mon, 18 Sep 2023 13:30:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/#update-initial-response-received</guid>
+      <description>On September 18, 2023, CFPB emailed its &lt;a href=&#34;https://www.documentcloud.org/documents/24026548-2023-09-18-cfpb-2023-0365-f-determination-letter&#34;&gt;response to our request 📄&lt;/a&gt;; the agency &lt;a href=&#34;https://www.data-liberation-project.org/datasets/cfpb-enforcement-matters/&#34;&gt;provided one spreadsheet&lt;/a&gt; in response to the first part of the request, and fully withheld all 530 pages of documentation potentially responsive to the second part of the request.</description>
+    </item>
+    
+    <item>
+      <title>Request Acknowledged</title>
+      <link>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/#update-request-acknowledged</link>
+      <pubDate>Wed, 31 May 2023 13:24:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>https://www.data-liberation-project.org/requests/cfpb-enforcement-matters/#update-request-acknowledged</guid>
+      <description>On May 31, 2023, CFPB emailed a &lt;a href=&#34;https://www.documentcloud.org/documents/23831885-2023-05-31-cfpb-2023-0365-f-ack-letter&#34;&gt;letter acknowledging our request 📄&lt;/a&gt;.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

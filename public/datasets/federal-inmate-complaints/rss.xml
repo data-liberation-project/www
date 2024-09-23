@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: Federal Inmate Complaints [Dataset]</title>
+    <link>https://www.data-liberation-project.org/datasets/federal-inmate-complaints/</link>
+    <description>Updates on the Data Liberation Project's Federal Inmate Complaints dataset</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/datasets/federal-inmate-complaints/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

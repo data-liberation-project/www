@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singletons on The Data Liberation Project</title>
+    <link>https://www.data-liberation-project.org/singleton/</link>
+    <description>Recent content in Singletons on The Data Liberation Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.data-liberation-project.org/singleton/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.data-liberation-project.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/about/</guid>
+      <description>The what, why, how, when, where, and who of the Data Liberation Project.</description>
+    </item>
+    
+    <item>
+      <title>Contact Information</title>
+      <link>https://www.data-liberation-project.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/contact/</guid>
+      <description>Feedback, questions, suggestions? Get in touch.</description>
+    </item>
+    
+    <item>
+      <title>Get Involved</title>
+      <link>https://www.data-liberation-project.org/get-involved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/get-involved/</guid>
+      <description>The Data Liberation Project welcomes collaborators, pro bono lawyers, funders, and pretty much anyone else.</description>
+    </item>
+    
+    <item>
+      <title>Subscribe to Our Newsletter</title>
+      <link>https://www.data-liberation-project.org/newsletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/newsletter/</guid>
+      <description>We&amp;rsquo;ll send you semi-regular news about our records requests, datasets liberated, partnership opportunities, and helpful resources.</description>
+    </item>
+    
+    <item>
+      <title>Whoops! Page not found.</title>
+      <link>https://www.data-liberation-project.org/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/404/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
