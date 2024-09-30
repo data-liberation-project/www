@@ -2,12 +2,17 @@
 title: Federal Inmate Deaths
 agency: Department of Justice (DOJ) ▹ Bureau of Prisons (BOP)
 date: 2024-08-09T00:00:00-04:00
-status: Records Received
+status: Records Published
+status_link: "/datasets/bop-federal-inmate-deaths"
 request_id: 2024-05021
-last_updated: 2024-09-04
+last_updated: 2024-09-18
 summary: We’re data records representing each federal inmate death from 2005 to the present.
 request_letter: https://www.documentcloud.org/documents/25038113-2024-08-09-dojbop-inmate-deaths-foia-request-data-liberation-project
 updates:
+- date: 2024-09-18T08:00:00-04:00
+  title: Records Published
+  body: >-
+    On September 18, 2024, the Data Liberation Project [published the responsive records](/datasets/bop-federal-inmate-deaths).
 - date: 2024-09-04T18:06:00-04:00
   title: Records Received
   body: >-
