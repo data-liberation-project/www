@@ -1,6 +1,6 @@
 ---
 title: Animal Welfare Investigations (APHIS ITEMS)
-agency: Department of Agriculture (USDA) - Animal and Plant Health Inspection Service (APHIS)
+agency: Department of Agriculture (USDA) Animal and Plant Health Inspection Service (APHIS)
 date: 2023-11-09T00:00:00-05:00
 status: [Records Published](https://www.data-liberation-project.org/datasets/aphis-inspection-reports/)
 request_id: 2024-APHIS-00849-F
