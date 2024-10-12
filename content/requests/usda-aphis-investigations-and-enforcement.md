@@ -4,7 +4,7 @@ agency: Department of Agriculture (USDA) Animal and Plant Health Inspection Serv
 date: 2023-11-09T00:00:00-05:00 
 status: Records Received, Preparing for Publication
 request_id: 2024-APHIS-00849-F
-last_updated: 2024-10-09
+last_updated: 2024-10-11
 summary: We’re requesting records from Animal and Plant Health Inspection Service’s Investigation Tracking and Enforcement Management System (ITEMS).
 request_letter: https://www.documentcloud.org/documents/24149657-2023-11-09-aphis-items-database-foia-request-singer-vine
 
