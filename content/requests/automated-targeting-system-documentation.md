@@ -3,11 +3,15 @@ title: Automated Targeting System Documentation
 agency: Department of Homeland Security (DHS) ▹ Customs and Border Protection (CBP)
 date: 2022-10-31T00:00:00-04:00
 request_id: CBP-FO-2023-006535
-status: Denied, Appealed
-last_updated: 2024-05-16
+status: Appeal Denied
+last_updated: 2024-11-20
 summary: We're requesting documentation of a major Customs and Border Protection database.
 request_letter: https://www.documentcloud.org/documents/23258078-2022-10-31-dhscbp-ats-documentation-foia-request
 updates:
+- date: 2024-09-11T10:00:00-05:00
+  title: Appeal Denied
+  body: >-
+    On September 11, 2024, [CBP rejected our appeal](https://www.documentcloud.org/documents/25352910-cbp-automated-targeting-system-appeal-denial). The FOIA Appeals & Policy Branch affirmed that the FOIA Division properly understood our request and denied it as overburdensome. 
 - date: 2024-05-16T17:25:00-04:00
   title: Denial Appealed
   body: >-
