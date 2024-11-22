@@ -11,7 +11,7 @@ updates:
 - date: 2024-09-11T10:00:00-05:00
   title: Appeal Denied
   body: >-
-    On September 11, 2024, [CBP rejected our appeal](https://www.documentcloud.org/documents/25352910-cbp-automated-targeting-system-appeal-denial). The FOIA Appeals & Policy Branch affirmed that the FOIA Division properly understood our request and denied it as overburdensome. 
+    On September 11, 2024, [CBP rejected our appeal](https://www.documentcloud.org/documents/25352910-cbp-automated-targeting-system-appeal-denial). The FOIA Appeals & Policy Branch affirmed that the FOIA Division properly understood our request and denied it as overburdensome. They added that, in any case, the records "would likely be withheld pursuant to FOIA exemption (b)(7)(E), because release of such information would cause harm to the agency by exposing to the public how ATS is designed and operated."
 - date: 2024-05-16T17:25:00-04:00
   title: Denial Appealed
   body: >-
