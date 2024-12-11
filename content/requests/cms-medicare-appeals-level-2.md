@@ -4,7 +4,7 @@ agency: Department of Health and Human Services (HHS) ▹ Centers for Medicare &
 date: 2024-03-28T00:00:00-04:00
 status: Acknowledged
 request_id: "032920247030"
-last_updated: 2024-03-28
+last_updated: 2024-12-11
 summary: We’re requesting database records tracking the circumstances and outcomes of patients' appeals of Medicare insurance decisions.
 request_letter: https://www.documentcloud.org/documents/24522698-2024-03-28-cms-medicare-level-2-appeals-database-records-foia-request-gartnersinger-vine
 
