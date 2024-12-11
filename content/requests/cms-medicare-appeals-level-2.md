@@ -14,7 +14,7 @@ request_letter: https://www.documentcloud.org/documents/24522698-2024-03-28-cms-
 
 Medicare uses a tiered appeals process by which beneficiaries can contest denials of coverage. The second level (“Level 2”) of the five level process is known as a [Qualified Independent Contractor (QIC) Reconsideration](https://www.medicare.gov/claims-appeals/file-an-appeal/appeals-level-2-qualified-independent-contractor-qic-reconsideration).
 
-CMS currently maintains a [publicly accessible view](https://www.cms.gov/medicare/appeals-grievances/appeals-decision-search-part-c-d) of a structured dataset containing Level 2 appeal outcomes for Part C and Part D (but neither Part A nor Part B). It contains the following fields:
+CMS currently maintains a [publicly accessible view](https://www.cms.gov/medicare/appeals-grievances/appeals-decision-search-part-c-d) of a structured dataset containing Level 2 appeal outcomes for [Medicare Parts C and Part D](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare) (but neither Part A nor Part B). It contains the following fields:
 
 - Medicare program part
 - Appeal decision
