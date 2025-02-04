@@ -4,7 +4,18 @@
   
   <url>
     <loc>https://www.data-liberation-project.org/</loc>
-    <lastmod>2024-09-18T00:00:00-04:00</lastmod>
+    <lastmod>2024-12-04T13:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.data-liberation-project.org/requests/</loc>
+    <lastmod>2024-12-04T13:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.data-liberation-project.org/requests/dol-whisard/</loc>
+    <lastmod>2024-12-04T13:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +45,6 @@
   
   <url>
     <loc>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/</loc>
-    <lastmod>2024-08-09T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.data-liberation-project.org/requests/</loc>
     <lastmod>2024-08-09T00:00:00-04:00</lastmod>
   </url>
   
@@ -278,12 +284,12 @@
   </url>
   
   <url>
-    <loc>https://www.data-liberation-project.org/requests/cms-acute-hospital-care-at-home/</loc>
+    <loc>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/</loc>
     <lastmod>2023-01-27T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/</loc>
+    <loc>https://www.data-liberation-project.org/requests/cms-acute-hospital-care-at-home/</loc>
     <lastmod>2023-01-27T00:00:00-05:00</lastmod>
   </url>
   

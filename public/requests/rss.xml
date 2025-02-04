@@ -6,7 +6,16 @@
     <description>Recent content in Records Requests on The Data Liberation Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Dec 2024 13:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wage and Hour Violations</title>
+      <link>https://www.data-liberation-project.org/requests/dol-whisard/</link>
+      <pubDate>Wed, 04 Dec 2024 13:00:00 -0400</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/dol-whisard/</guid>
+      <description>We&amp;rsquo;re requesting the data behind a processing system that enables investigators, managers, and assistants in the Wage and Hour Division (WHD) to process, manage and investigate alleged labor violations.</description>
+    </item>
+    
     <item>
       <title>Federal Inmate Deaths</title>
       <link>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/</link>
@@ -58,7 +67,7 @@
       <pubDate>Thu, 28 Mar 2024 00:00:00 -0400</pubDate>
       
       <guid>https://www.data-liberation-project.org/requests/cms-medicare-appeals-level-2/</guid>
-      <description>We’re requesting database records tracking the circumstances and outcomes of patients&amp;rsquo; appeals of Medicare insurance decisions.</description>
+      <description>We’re requesting database records tracking the circumstances and outcomes of patients&#39; appeals of Medicare insurance decisions.</description>
     </item>
     
     <item>
@@ -148,7 +157,7 @@
       <pubDate>Thu, 27 Apr 2023 00:00:00 -0400</pubDate>
       
       <guid>https://www.data-liberation-project.org/requests/hud-tenant-terminations/</guid>
-      <description>We&amp;rsquo;re requesting data on public housing authorities&amp;rsquo; removals of tenants from public and subsidized housing.</description>
+      <description>We&amp;rsquo;re requesting data on public housing authorities&#39; removals of tenants from public and subsidized housing.</description>
     </item>
     
     <item>
@@ -166,7 +175,7 @@
       <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate>
       
       <guid>https://www.data-liberation-project.org/requests/peace-corps-resignations/</guid>
-      <description>We&amp;rsquo;re requesting database records from the Peace Corps indicating volunteers&amp;rsquo; reasons for resignation.</description>
+      <description>We&amp;rsquo;re requesting database records from the Peace Corps indicating volunteers&#39; reasons for resignation.</description>
     </item>
     
     <item>
@@ -233,21 +242,21 @@
     </item>
     
     <item>
-      <title>“Acute Hospital Care at Home” Data</title>
-      <link>https://www.data-liberation-project.org/requests/cms-acute-hospital-care-at-home/</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 -0500</pubDate>
-      
-      <guid>https://www.data-liberation-project.org/requests/cms-acute-hospital-care-at-home/</guid>
-      <description>We&amp;rsquo;re requesting data from a recent CMS program &amp;ldquo;providing eligible hospitals with unprecedented regulatory flexibilities to treat eligible patients in their homes.”</description>
-    </item>
-    
-    <item>
       <title>Boating Accident Report Database</title>
       <link>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 -0500</pubDate>
       
       <guid>https://www.data-liberation-project.org/requests/uscg-boating-accident-report-database/</guid>
       <description>We&amp;rsquo;re requesting the Coast Guard&amp;rsquo;s national database of recreational boating accidents.</description>
+    </item>
+    
+    <item>
+      <title>“Acute Hospital Care at Home” Data</title>
+      <link>https://www.data-liberation-project.org/requests/cms-acute-hospital-care-at-home/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.data-liberation-project.org/requests/cms-acute-hospital-care-at-home/</guid>
+      <description>We&amp;rsquo;re requesting data from a recent CMS program &amp;ldquo;providing eligible hospitals with unprecedented regulatory flexibilities to treat eligible patients in their homes.”</description>
     </item>
     
     <item>
@@ -355,7 +364,7 @@
       <pubDate>Thu, 27 Oct 2022 00:00:00 -0400</pubDate>
       
       <guid>https://www.data-liberation-project.org/requests/federal-inmate-complaints/</guid>
-      <description>We&amp;rsquo;re requesting data stored in one particular component of the Bureau of Prison&amp;rsquo;s SENTRY database — records that track inmates&amp;rsquo; formal complaints and the agency&amp;rsquo;s responses.</description>
+      <description>We&amp;rsquo;re requesting data stored in one particular component of the Bureau of Prison&amp;rsquo;s SENTRY database — records that track inmates&#39; formal complaints and the agency&amp;rsquo;s responses.</description>
     </item>
     
     <item>
