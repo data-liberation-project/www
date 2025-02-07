@@ -13,7 +13,7 @@ The Data Liberation Project has many volunteering opportunities, suitable for al
 
 ## Subscribe to our newsletter
 
-A subscription to [The Data Liberation Project's newsletter]({{< ref "/newsletter" >}}) represents a vote of confidence in our [mission]({{< ref "/about" >}}). It's also the best way to stay informed about new records requests, newly liberated datasets, and new opportunities for collaboration.
+The [MuckRock newsletter](https://www.muckrock.com/newsletters/) is the best way to stay informed about new records requests, newly liberated datasets, and new opportunities for collaboration.
 
 ## Donate your legal expertise
 
