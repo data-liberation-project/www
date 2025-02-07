@@ -3,8 +3,8 @@ title: EPA Risk Management Program Database
 aliases:
     - /datasets/epa-risk-managment-program-database
 date: 2023-02-21T00:00:00-05:00
-last_updated: 2024-07-20T00:00:00-04:00
-data_through: Early July 2024
+last_updated: 2025-01-05T00:00:00-05:00
+data_through: December 2024
 update_freq: FOIA-dependent
 related_request: epa-risk-management-program
 entrypoint:
@@ -36,11 +36,12 @@ Beginning in December 2022, the DLP has received and processed several versions 
 - In January 2024, the DLP obtained and published another update of the database, containing RMP submissions __through late January 2024__.
 - In April 2024, the DLP obtained and published another update of the database, containing RMP submissions __through late March 2024__.
 - In July 2024, the DLP obtained and published another update of the database, containing RMP submissions __through early July 2024__.
+- In January 2025, the DLP obtained and published another update of the database, containing RMP submissions __through December 2024__.
 
 Since first receiving the records, the Data Liberation Project and volunteers undertook efforts to understand, document, and process the data. We are providing: 
 
-- The [raw records](https://drive.google.com/drive/folders/1hSAgWacQOIVLg2rqO6z6TEqPJSQmDNn4) received via FOIA
-- Those records [converted to a SQLite database file](https://drive.google.com/drive/folders/1TtbkJ_OFHTiJa6GPedTma3fR6im-6xHX)
+- The [raw records](https://drive.google.com/drive/folders/1vRgNCsjAwopc7bBuprTWNs3aEpLiu84l) received via FOIA
+- Those records [converted to a SQLite database file](https://drive.google.com/drive/folders/1Gf42KLvhol9eAvfOBxOiFu_uY-oSCTyj)
 - A [simple facility/submission browser and viewer](https://data-liberation-project.github.io/epa-rmp-viewer/)
 - A [set of simple spreadsheets](https://docs.google.com/spreadsheets/d/170UIeg_sweeqGWVQrjHWY-HNRqEPE9axbEroSEr4C3M/edit) providing an overview of each facility, submission, and reported accident
 
