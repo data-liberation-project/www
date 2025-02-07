@@ -21,7 +21,7 @@ If you're a First Amendment–savvy lawyer who'd like to provide pro bono assist
 
 ## Suggest data to liberate
 
-The Data Liberation Project welcomes the broader community of journalists, government watchdogs, and engaged citizens to help us identify databases of major interest. If you have a suggestion, [please fill out this short form](https://docs.google.com/forms/d/e/1FAIpQLSdtirjaC9MGw1ScvCJYZbEPA3POumCkrERNM4B9Z-j5-m8_hA/viewform).
+The Data Liberation Project welcomes the broader community of journalists, government watchdogs, and engaged citizens to help us identify databases of major interest. If you have a suggestion, [please tell us on Slack](https://www.muckrock.com/slack/).
 
 ## Fund us
 
