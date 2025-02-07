@@ -5,7 +5,7 @@ summary: The Data Liberation Project welcomes collaborators, pro bono lawyers, f
 
 ## Use our data
 
-The Data Liberation Project liberates data for *you*. The best way you can support us is to [make use of that data]({{< ref "/datasets" >}}). You can also [see our pending records requests]({{< ref "/requests" >}}) and [subscribe to our newsletter]({{< ref "/newsletter" >}}) to be notified about newly released datasets and scheduled trainings.
+The Data Liberation Project liberates data for *you*. The best way you can support us is to [make use of that data]({{< ref "/datasets" >}}). You can also [see our pending records requests]({{< ref "/requests" >}}) and [subscribe to the MuckRock newsletter](https://www.muckrock.com/newsletters/) to be notified about newly released datasets and scheduled trainings.
 
 ## Volunteer
 
