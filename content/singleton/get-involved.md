@@ -9,7 +9,7 @@ The Data Liberation Project liberates data for *you*. The best way you can suppo
 
 ## Volunteer
 
-The Data Liberation Project has many volunteering opportunities, suitable for all sorts of people, regardless of technical expertise or years of experience. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeuajPQn--xtI-WypefA45yD6q69A5XtLFk_LPDm3-1cEBakg/viewform) to get started.
+The Data Liberation Project has many volunteering opportunities, suitable for all sorts of people, regardless of technical expertise or years of experience. [Join our Slack channel](https://www.muckrock.com/slack/) to get started.
 
 ## Subscribe to our newsletter
 
