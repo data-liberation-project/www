@@ -7,7 +7,7 @@ update_freq: FOIA-dependent
 related_request: cms-medicare-appeals-level-2
 entrypoint:
   title: Spreadsheets provided by agency
-  href: https://docs.google.com/document/d/1vTuyUFNqS9tex4_s4PgmhF8RTvTb-uFMN5ElDjjVHTM/edit
+  href: https://drive.google.com/drive/u/4/folders/1JJf5fXd3dHdCj1Ej_ugWia8Kxx3gdMx0
 summary: Spreadsheets of all Medicare Part C and Part D Type 2 appeal outcomes from January 2015 through December 2019.
 
 ---
