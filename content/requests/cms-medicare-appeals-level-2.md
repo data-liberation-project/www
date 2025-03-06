@@ -2,9 +2,10 @@
 title: Medicare "Level 2" Appeals
 agency: Department of Health and Human Services (HHS) ▹ Centers for Medicare & Medicaid Services (CMS)
 date: 2024-03-28T00:00:00-04:00
-status: Acknowledged
+status: Partially Liberated
+status_link: "/datasets/cms-medicare-appeals-level-2"
 request_id: "032920247030"
-last_updated: 2024-12-11
+last_updated: 2024-11-27T00:00:00-04:00
 summary: We’re requesting database records tracking the circumstances and outcomes of patients' appeals of Medicare insurance decisions.
 request_letter: https://www.documentcloud.org/documents/24522698-2024-03-28-cms-medicare-level-2-appeals-database-records-foia-request-gartnersinger-vine
 
