@@ -1,7 +1,7 @@
 ---
 title: CMS Medicare Appeals Level 2
-date: 2025-03-07T00:00:00-04:00
-last_updated: 2025-03-07T00:00:00-04:00
+date: 2025-03-06T00:00:00-04:00
+last_updated: 2025-03-06T00:00:00-04:00
 data_through: December 2019
 update_freq: FOIA-dependent
 related_request: cms-medicare-appeals-level-2
