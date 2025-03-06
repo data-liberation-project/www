@@ -12,7 +12,7 @@ updates:
 - date: 2025-03-06T00:00:00-00:00
   title: Partial Records Published
   body: >-
-    On March 6, 2025, the Data Liberation Project published the partial records received while the appeal for full release was ongoing.
+    On March 6, 2025, the Data Liberation Project [published the partial records](https://www.data-liberation-project.org/datasets/cms-medicare-appeals-level-2/) received while the appeal for full release was ongoing.
 - date: 2025-02-09T00:00:00-00:00
   title: Request for Status Update Submitted
   body: >-
