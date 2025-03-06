@@ -8,7 +8,23 @@ request_id: "032920247030"
 last_updated: 2024-11-27T00:00:00-04:00
 summary: We’re requesting database records tracking the circumstances and outcomes of patients' appeals of Medicare insurance decisions.
 request_letter: https://www.documentcloud.org/documents/24522698-2024-03-28-cms-medicare-level-2-appeals-database-records-foia-request-gartnersinger-vine
-
+updates:
+- date: 2025-03-06T00:00:00-00:00
+  title: Partial Records Published
+  body: >-
+    On March 6, 2025, the Data Liberation Project published the partial records received while the appeal for full release was ongoing.
+- date: 2025-02-09T00:00:00-00:00
+  title: Request for Status Update Submitted
+  body: >-
+    On February 9, 2025, the Data Liberation Project requested a status update for the appeal.
+- date: 2024-11-27T00:00:00-00:00
+  title: Appeal Filed
+  body: >-
+    On November 27, 2024, co-requestors Mike Gartner and the Data Liberation Project filed a [letter appealing the partial and full denials](https://www.documentcloud.org/documents/25551036-appeal-cms-medicare-part-a-and-part-b/) of the request, arguing that responsive records exist and were improperly withheld. 
+- date: 2024-10-16T00:00:00-00:00
+  title: Partial Response Provided
+  body: >-
+    On October 16, 2024, [CMS responded to our request](https://www.documentcloud.org/documents/25553479-cms-medicare-appeals-partial-release-letter/), providing four spreadsheets. The fields provided were more limited than what is in the publicly maintained data available for 2020 onwards. At the same time, CMS rejected in full the request for Part A and Part B appeal outcomes.
 ---
 
 *This request is a collaboration with Mike Gartner of [Persius](https://github.com/TPAFS), an organization that provides free digital tools and data to help US consumers navigate issues with health insurance.*
