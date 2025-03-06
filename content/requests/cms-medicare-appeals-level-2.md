@@ -20,7 +20,7 @@ updates:
 - date: 2024-11-27T00:00:00-00:00
   title: Appeal Filed
   body: >-
-    On November 27, 2024, co-requestors Mike Gartner and the Data Liberation Project filed a [letter appealing the partial and full denials](https://www.documentcloud.org/documents/25551036-appeal-cms-medicare-part-a-and-part-b/) of the request, arguing that responsive records exist and were improperly withheld. 
+    On November 27, 2024, co-requestors Mike Gartner and the Data Liberation Project filed a [letter appealing the partial and full denials](https://www.documentcloud.org/documents/25553789-cms-medicare-appeal/) of the request, arguing that responsive records exist and were improperly withheld. 
 - date: 2024-10-16T00:00:00-00:00
   title: Partial Response Provided
   body: >-
