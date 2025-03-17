@@ -9,6 +9,10 @@ last_updated: 2024-05-17
 summary: We're requesting database records from the DEA's Theft Loss Reporting system, which collects information about controlled substances that have gone missing.
 request_letter: https://www.documentcloud.org/documents/22925202-2022-09-23-dojdea-tlr-foia-request
 updates: 
+- date: 2025-02-26T17:00:00-04:00
+  title: Appeal partly granted
+  body: >-
+    On February 26, 2025, the DEA [partly granted DLP's second appeal](https://www.documentcloud.org/documents/25589721-dea-theftloss-of-controlled-substances-second-appeal-partly-granted/), releasing portions of a [58-page manual](https://www.documentcloud.org/documents/25589722-dea-theftloss-of-controlled-substances-manual-partially-redacted/). Portions of the manual, as well as a data dictionary and a diagram, were withheld citing privacy and law enforcement exemptions.
 - date: 2024-05-17T17:00:00-04:00
   title: Denial appealed
   body: >-
@@ -29,7 +33,6 @@ updates:
   title: Some records provided
   body: >-
     On May 12, 2023, the DEA sent a [determination letter 📄](https://www.documentcloud.org/documents/23813617-2023-05-12-signed-det-65) regarding this request, along with [two spreadsheets](https://github.com/data-liberation-project/dea-theft-and-loss-counts) the letter says are responsive to the Data Liberation Project's request. The agency did not provide any of the underlying report data requested, nor the documentation requested.
-
 - date: 2022-09-27T19:03:00-04:00
   title: Request Acknowledged, Placed on "Complex Track"
   body: >-
