@@ -2,10 +2,10 @@
 title: Theft and Loss of Controlled Substances 
 agency: Department of Justice (DOJ) ▹ Drug Enforcement Administration (DEA)
 date: 2022-09-23T00:00:00-04:00
-status: Some records provided, appeal filed, denied
+status: Some records provided, appeals partly granted
 status_link: "/datasets/dea-theft-and-loss-counts"
 request_id: 22-01101-F / A-2023-01489 / A-2024-01699
-last_updated: 2024-05-17
+last_updated: 2025-03-17
 summary: We're requesting database records from the DEA's Theft Loss Reporting system, which collects information about controlled substances that have gone missing.
 request_letter: https://www.documentcloud.org/documents/22925202-2022-09-23-dojdea-tlr-foia-request
 updates: 
