@@ -4,7 +4,7 @@ agency: Department of Transportation (DOT) ▹ Office of the Secretary of Transp
 date: 2024-04-02T00:00:00-04:00
 status: Acknowledged
 request_id: OST-2024-0388
-last_updated: 2024-04-25
+last_updated: 2025-07-06
 summary: We’re requesting records submitted by airlines regarding credit they've extended to political candidates for federal office.
 request_letter: https://www.documentcloud.org/documents/24529150-2024-04-02-political-candidate-airline-credit-foia-request-uberoysinger-vine
 updates:
