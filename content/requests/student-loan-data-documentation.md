@@ -3,11 +3,15 @@ title: Student Loan Data Documentation
 agency: Department of Education ▹ Federal Student Aid (FSA)
 date: 2022-09-23T00:00:01-04:00
 request_id: 22-03723-F
-status: Acknowledged
-last_updated: 2022-10-31
+status: Liberated
+last_updated: 2025-07-06
 summary: We're requesting database documentation for several major Department of Education systems that track student loans.
 request_letter: https://www.documentcloud.org/documents/22925203-2022-09-23-edfsa-nsldsedmapscsbcod-documentation-foia-request
 updates:
+- date: 2024-12-27T13:44:00-04:00
+  title: Partial Documents Provided
+  body: >-
+    On December 27, 2024, the Department of Education provided a response letter and 2,327 pages related to the NSLDS and COD systems.
 - date: 2022-09-29T13:44:00-04:00
   title: Request Acknowledged, Fee Waiver Granted
   body: >-
