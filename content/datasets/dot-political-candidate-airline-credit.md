@@ -7,7 +7,7 @@ update_freq: FOIA-dependent
 related_request: dot-political-candidate-airline-credit
 entrypoint:
   title: Document provided by agency
-  href: [https://drive.google.com/drive/u/6/folders/13MdS36uHnzcQSwSulIjA4yCAwXMMAow5
+  href: https://drive.google.com/drive/u/6/folders/13MdS36uHnzcQSwSulIjA4yCAwXMMAow5
 summary: A document collating forms submitted by airlines dated between 2011 and 2016.
 
 ---
