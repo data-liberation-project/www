@@ -3,7 +3,8 @@ title: Student Loan Data Documentation
 agency: Department of Education ▹ Federal Student Aid (FSA)
 date: 2022-09-23T00:00:01-04:00
 request_id: 22-03723-F
-status: [Liberated](https://www.data-liberation-project.org/documents/student-loan-data-documentation/)
+status: Liberated
+status_link: "/documents/student-loan-data-documentation"
 last_updated: 2025-07-06
 summary: We're requesting database documentation for several major Department of Education systems that track student loans.
 request_letter: https://www.documentcloud.org/documents/22925203-2022-09-23-edfsa-nsldsedmapscsbcod-documentation-foia-request
