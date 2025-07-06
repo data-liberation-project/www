@@ -16,7 +16,7 @@ updates:
 - date: 2024-12-27T13:44:00-04:00
   title: Partial Documents Provided
   body: >-
-    On December 27, 2024, the Department of Education provided a response letter and 2,327 pages related to the NSLDS and COD systems.
+    On December 27, 2024, the Department of Education provided a response letter and [2,327 pages related to the NSLDS and COD systems](https://drive.google.com/drive/u/6/folders/1sT4f0E0MK_oK_kZ-qPLtMaS1PTH8jNMP).
 - date: 2022-09-29T13:44:00-04:00
   title: Request Acknowledged, Fee Waiver Granted
   body: >-
