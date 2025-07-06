@@ -3,6 +3,7 @@ title: Political Candidates’ Airline Credit
 agency: Department of Transportation (DOT) ▹ Office of the Secretary of Transportation (OST) ▹ Bureau of Transportation Statistics (BTS)
 date: 2024-04-02T00:00:00-04:00
 status: Liberated
+status_link: "/datasets/dot-political-candidate-airline-credit/"
 request_id: OST-2024-0388
 last_updated: 2025-07-06
 summary: We’re requesting records submitted by airlines regarding credit they've extended to political candidates for federal office.
