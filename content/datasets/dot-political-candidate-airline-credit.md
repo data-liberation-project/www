@@ -18,4 +18,4 @@ The Department of Transportation requires airlines to “submit monthly reports 
 
 The agency provided a 71-page PDF collating forms from various airlines: two from Elite Airways, one from Lynden Air Cargo, and the rest from United Airlines. The records do not include the names of the political candidates, and there are only around 70 forms shared for the entire period of 2010 to 2025. In December 2024, the Bureau of Transportation Statistics (BTS) confirmed that it provided exactly what the agency received, that no data has been lost, and that the agency has not received any submissions since 2016.
 
-To get started with the data, please consult the Data Liberation Project's [introductory documentation](https://docs.google.com/document/d/19yAjUqR-Cx6TlgOkBxoAnoxwGMUfuDkU9cqbumqyOzU/edit?usp=sharing).
+To get started with the data, please consult the Data Liberation Project's [introductory documentation](https://docs.google.com/document/d/1ToKQrGEtS0ObUO3DXzvjtp6sCXRtrNDVBVoXP9Bf1Qg/edit?tab=t.0#heading=h.iw2h1hjfzqu0).
