@@ -19,7 +19,7 @@ updates:
 - date: 2025-07-06T11:56:00-04:00
   title: Document Published
   body: >-
-    The Data Liberation Project published the document received from the Department of Transportation.
+    The Data Liberation Project [published the document](https://www.data-liberation-project.org/datasets/dot-political-candidate-airline-credit) received from the Department of Transportation.
 ---
 
 *This request is a collaboration with journalist [Urvashi Uberoy](https://www.nytimes.com/by/urvashi-uberoy).*
