@@ -9,6 +9,10 @@ last_updated: 2025-07-06
 summary: We're requesting database documentation for several major Department of Education systems that track student loans.
 request_letter: https://www.documentcloud.org/documents/22925203-2022-09-23-edfsa-nsldsedmapscsbcod-documentation-foia-request
 updates:
+- date: 2025-07-06T13:44:00-04:00
+  title: Documents Published
+  body: >-
+    On July 6, 2025, the Data Liberation Project [published 2,327 pages of data documentation](https://www.data-liberation-project.org/documents/student-loan-data-documentation/).
 - date: 2024-12-27T13:44:00-04:00
   title: Partial Documents Provided
   body: >-
