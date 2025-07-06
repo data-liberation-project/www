@@ -11,7 +11,7 @@ updates:
 - date: 2023-10-11T11:38:00-05:00
   title: “No Records” Response
   body: >-
-    On October 11, 2023, the Department of Education emailed its [initial response 📄](https://www.documentcloud.org/documents/24026643-2023-10-11-2-23-01639-f-final-no-records). “After a thorough search, no responsive records were located,” according to the letter. “Cancer treatment deferment applications are not received by FSA systems. While FSA typically receives data from the servicers about those borrowers who are in an approved cancer related deferment, no borrowers have been in a cancer related deferment since March 2020, because all borrowers are placed into the COVID forbearance.”
+    On October 11, 2023, the Department of Education emailed its [initial response 📄](https://www.documentcloud.org/documents/24026643-2023-10-11-2-23-01639-f-final-no-records). “After a thorough search, no responsive records were located,” according to the letter. “Cancer treatment deferment applications are not received by FSA systems. While FSA typically receives data from the servicers about those borrowers who are in an approved cancer related deferment, no borrowers have been in a cancer related deferment since March 2020, because all borrowers are placed into the COVID forbearance.” The DLP submitted a request for more information.
 - date: 2023-05-15T16:11:00-04:00
   title: Fee Waiver Appeal Successful, Waiver Granted
   body: >-
