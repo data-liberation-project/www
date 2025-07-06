@@ -5,6 +5,9 @@ last_updated: 2025-07-06T00:00:00-04:00
 data_through: December 2024
 update_freq: FOIA-dependent
 related_request: student-loan-data-documentation
+entrypoint:
+  title: Documents provided by agency
+  href: https://drive.google.com/drive/u/6/folders/1sT4f0E0MK_oK_kZ-qPLtMaS1PTH8jNMP
 summary: Records documenting systems that track student loans maintained by the U.S. Department of Education (DOE) and its Office of Federal Student Aid (FSA).
 
 ---
