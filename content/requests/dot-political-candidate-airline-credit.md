@@ -12,7 +12,7 @@ updates:
   title: Request Acknowledged
   body: >-
     On April 25, 2024, the Department of Transportation emailed a [letter 📄](https://www.documentcloud.org/documents/24608725-2024-04-25-ost-acknowledgement-template) acknowledging this request and assigning it tracking number OST-2024-0388.
-- date: 2024-04-25T11:56:00-04:00
+- date: 2024-07-25T11:56:00-04:00
   title: Document Provided
   body: >-
     On July 25, 2024, the Department of Transportation provided a 71-page PDF collating forms from various airlines. The DLP later confirmed with the agency that this was all the documentation it had available.
