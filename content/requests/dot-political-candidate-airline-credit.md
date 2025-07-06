@@ -11,8 +11,15 @@ updates:
 - date: 2024-04-25T11:56:00-04:00
   title: Request Acknowledged
   body: >-
-    On April 25, 2024, the Department of Transportation emailed a [letter 📄](https://www.documentcloud.org/documents/24608725-2024-04-25-ost-acknowledgement-template) acknowledging this request and assigning it tracking number OST-2024-0388. 
-
+    On April 25, 2024, the Department of Transportation emailed a [letter 📄](https://www.documentcloud.org/documents/24608725-2024-04-25-ost-acknowledgement-template) acknowledging this request and assigning it tracking number OST-2024-0388.
+- date: 2024-04-25T11:56:00-04:00
+  title: Document Provided
+  body: >-
+    On July 25, 2024, the Department of Transportation provided a 71-page PDF collating forms from various airlines. The DLP later confirmed with the agency that this was all the documentation it had available.
+- date: 2025-07-06T11:56:00-04:00
+  title: Document Published
+  body: >-
+    The Data Liberation Project published the document received from the Department of Transportation.
 ---
 
 *This request is a collaboration with journalist [Urvashi Uberoy](https://www.nytimes.com/by/urvashi-uberoy).*
