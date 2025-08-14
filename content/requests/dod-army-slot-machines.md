@@ -10,7 +10,7 @@ summary: We requested data detailing the presence, operation, and finances of sl
 request_letter: https://www.documentcloud.org/documents/24662028-2024-05-14-army-slot-machine-foia-request-singer-vinelongman
 updates:
 - date: 2024-10-15T08:45:00-04:00
-  title: Files Shared
+  title: Request Fulfilled
   body: >-
     On October 15, 2024, the Department of Defense shared [several PDFs](https://drive.google.com/drive/u/6/folders/1YE8IreRoXXx82B07JWdnZLzHiI5s_FpY) containing the data as well as some documentation of it.
 - date: 2024-08-16T08:45:00-04:00
