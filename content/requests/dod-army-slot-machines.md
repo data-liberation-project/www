@@ -3,7 +3,7 @@ title: Army Slot Machines
 agency: Department of Defense (DOD) ▹ Department of the Army
 date: 2024-05-14T00:00:00-04:00
 status: Liberated
-status_link:
+status_link: "/datasets/dod-army-slot-machines/"
 request_id: FP-24-025815
 last_updated: 2025-08-14
 summary: We requested data detailing the presence, operation, and finances of slot machines on military property.
