@@ -2,12 +2,17 @@
 title: Army Slot Machines
 agency: Department of Defense (DOD) ▹ Department of the Army
 date: 2024-05-14T00:00:00-04:00
-status: Acknowledged
+status: Liberated
+status_link:
 request_id: FP-24-025815
-last_updated: 2024-08-16
-summary: We're requesting detailing the presence, operation, and finances of slot machines on military property.
+last_updated: 2025-08-14
+summary: We requested data detailing the presence, operation, and finances of slot machines on military property.
 request_letter: https://www.documentcloud.org/documents/24662028-2024-05-14-army-slot-machine-foia-request-singer-vinelongman
 updates:
+- date: 2024-10-15T08:45:00-04:00
+  title: Files Shared
+  body: >-
+    On October 15, 2024, the Department of Defense shared [several PDFs](https://drive.google.com/drive/u/6/folders/1YE8IreRoXXx82B07JWdnZLzHiI5s_FpY) containing the data as well as some documentation of it.
 - date: 2024-08-16T08:45:00-04:00
   title: Rerouted Request Acknowledged
   body: >-
@@ -15,7 +20,7 @@ updates:
 - date: 2024-08-13T10:42:00-04:00
   title: Request Acknowledged and Rerouted
   body: >-
-    On August 13, 2024, the Army acknowledged to this request and assigned it case number `FA-24-3008 / FP-24-025490`, but indicated that it will be rerouted to the Installation Management Command (IMCOM) Headquarters FOIA office, "[t]he correct office to process your request".
+    On August 13, 2024, the Army acknowledged this request and assigned it case number `FA-24-3008 / FP-24-025490`, but indicated that it will be rerouted to the Installation Management Command (IMCOM) Headquarters FOIA office, "[t]he correct office to process your request".
 
 ---
 
@@ -26,4 +31,4 @@ A [2017 report from the Government Accountability Office](https://www.gao.gov/pr
 
 Very few details, however, are publicly available regarding the operation of those slot machines.
 
-[Our FOIA request 📄](https://www.documentcloud.org/documents/24662028-2024-05-14-army-slot-machine-foia-request-singer-vinelongman) to the Army seeks all records — spreadsheets, databases, reports, presentations, and/or memoranda — indicating the number, location, sponsors of, and/or revenue of slot machines on DOD properties.
+[Our FOIA request 📄](https://www.documentcloud.org/documents/24662028-2024-05-14-army-slot-machine-foia-request-singer-vinelongman) to the Army sought all records — spreadsheets, databases, reports, presentations, and/or memoranda — indicating the number, location, sponsors of, and/or revenue of slot machines on DOD properties.
