@@ -1,7 +1,7 @@
 ---
 title: Subscribe to Our Newsletter
 type: singleton
-summary: Stay up to date with our requests and news.
+summary: MuckRock organizes volunteer efforts for the Data Liberation Project. Sign up for the MuckRock newsletter to stay up to date with requests and news.
 ---
 
 {{< rawhtml >}}
