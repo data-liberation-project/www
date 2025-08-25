@@ -7,7 +7,7 @@ update_freq: FOIA-dependent
 related_request: dod-army-slot-machines
 entrypoint:
   title: Documents provided by agency
-  href: https://drive.google.com/drive/u/6/folders/11AN0IzlfUIYQBp1DH7_PjYGA8JHJZ21J
+  href: https://drive.google.com/drive/u/6/folders/1YE8IreRoXXx82B07JWdnZLzHiI5s_FpY
 summary: A series of PDF documents showing revenue and other information on slot machines on U.S. miliatry property overseas.
 
 ---
