@@ -14,8 +14,13 @@
             {{ else }}
             <a href="/">
             {{ end }}
-                <div class="chip-item">
-                    <h1>{{ .title | markdownify }}</h1>
+                <div class="chip-item logo-chip">
+                  <img
+                    class="dlp-logo"
+                    src="/dlp-logo.svg"
+                    title="{{ .title | markdownify }}"
+                    alt="An illustration of a hand holding up a folder. The folder is decorated with wings."
+                  />
                 </div>
             {{ if .isHome }}
             </div>
