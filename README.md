@@ -47,6 +47,14 @@ The process for updating dataset / document release pages is similar to that for
 
 ## Building The Site
 
+### Install Hugo
+
+This project depends on [Hugo v0.128.0](https://github.com/gohugoio/hugo/releases/tag/v0.128.0). The project may not work with newer versions.
+
+To install an older version of Hugo, download the build suitable for your system, unpack it, and execute the `hugo` binary.
+
+### Makefile
+
 To build the site, run `make build`; this will run `hugo build` and place the rendered files in the [`public/`](public/) directory.
 
 To serve the site locally, run `make serve` or `make serve-future` (the latter of which will also show future-dated pages).
