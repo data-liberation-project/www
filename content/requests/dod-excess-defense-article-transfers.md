@@ -23,6 +23,6 @@ In 1992, Congress [required](https://www.documentcloud.org/documents/24852427-se
 
 > The recipient country, the item(s) to be transferred and the quantity of each, the implementing agency for each transfer (Army, Navy, Air Force, Defense Logistics Agency (DLA), transfer via grant or sale, the notified acquisition value and current value of the equipment[, … the] status of the transfer and the date of the latest status change.
 
-Unfortunately, the most recent version of the database publicly available on the DSCA website, [as of mid-July 2024](https://web.archive.org/web/20240717072439/https://www.dsca.mil/programs/excess-defense-articles-eda), appears to include records only through mid-2020.
+The most recent version of the database publicly available on the DSCA website, [as of mid-July 2024](https://web.archive.org/web/20240717072439/https://www.dsca.mil/programs/excess-defense-articles-eda), appears to include records only through mid-2020. After our FOIA request, the DOD updated its public page to show transfers from 2013 to 2023.
 
 [Our FOIA request 📄](https://www.documentcloud.org/documents/24926542-2024-07-22-excess-defense-article-foia-request-gitelmansinger-vine) sought the latest version of the database, including any FOIA-disclosable data records not provided in the public spreadsheet. It also seeks a copy of all internal EDA database records pertaining to four specific transfers, as well as records documenting the internal EDA database.
