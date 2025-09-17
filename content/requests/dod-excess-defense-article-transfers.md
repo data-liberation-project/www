@@ -1,13 +1,18 @@
 ---
-title: Excess Defense Article Transfers
+title: DOD Excess Defense Article Transfers
 agency: Department of Defense (DOD) ▹ Office of the Secretary of Defense (OSD) ▹ Defense Security Cooperation Agency (DSCA)
 date: 2024-07-22T00:00:00-04:00
-status: Submitted
+status: Liberated
+status_link:
 request_id: 24-F-1577
-last_updated: 2024-07-22
-summary: We’re requesting an updated copy of the Department of Defense's Excess Defense Articles transfer database.
+last_updated: 2025-09-17
+summary: We requested an updated copy of the Department of Defense's Excess Defense Articles transfer database.
 request_letter: https://www.documentcloud.org/documents/24926542-2024-07-22-excess-defense-article-foia-request-gitelmansinger-vine
-
+updates:
+- date: 2024-11-15T08:45:00-04:00
+  title: Request Fulfilled
+  body: >-
+    In late 2024 and early 2025, the Department of Defense shared [several documents](https://drive.google.com/drive/u/4/folders/1zEmq3Wv4EtTh76zO9Xy11OT10Q6K4OII) containing the data as well as some documentation of it.
 ---
 
 *This request is a collaboration with journalist [Alec Gitelman](https://www.linkedin.com/in/alec-gitelman-2175902/).*
@@ -20,4 +25,4 @@ In 1992, Congress [required](https://www.documentcloud.org/documents/24852427-se
 
 Unfortunately, the most recent version of the database publicly available on the DSCA website, [as of mid-July 2024](https://web.archive.org/web/20240717072439/https://www.dsca.mil/programs/excess-defense-articles-eda), appears to include records only through mid-2020.
 
-[Our FOIA request 📄](https://www.documentcloud.org/documents/24926542-2024-07-22-excess-defense-article-foia-request-gitelmansinger-vine) seeks the latest version of the database, including any FOIA-disclosable data records not provided in the public spreadsheet. It also seeks a copy of all internal EDA database records pertaining to four specific transfers, as well as records documenting the internal EDA database.
+[Our FOIA request 📄](https://www.documentcloud.org/documents/24926542-2024-07-22-excess-defense-article-foia-request-gitelmansinger-vine) sought the latest version of the database, including any FOIA-disclosable data records not provided in the public spreadsheet. It also seeks a copy of all internal EDA database records pertaining to four specific transfers, as well as records documenting the internal EDA database.
