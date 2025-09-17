@@ -3,7 +3,7 @@ title: DOD Excess Defense Article Transfers
 agency: Department of Defense (DOD) ▹ Office of the Secretary of Defense (OSD) ▹ Defense Security Cooperation Agency (DSCA)
 date: 2024-07-22T00:00:00-04:00
 status: Liberated
-status_link:
+status_link: "/datasets/dod-excess-defense-article-transfers"
 request_id: 24-F-1577
 last_updated: 2025-09-17
 summary: We requested an updated copy of the Department of Defense's Excess Defense Articles transfer database.
