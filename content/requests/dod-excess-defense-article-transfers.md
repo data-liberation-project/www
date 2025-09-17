@@ -12,7 +12,7 @@ updates:
 - date: 2024-11-15T08:45:00-04:00
   title: Request Fulfilled
   body: >-
-    In late 2024 and early 2025, the Department of Defense shared [several documents](https://drive.google.com/drive/u/4/folders/1zEmq3Wv4EtTh76zO9Xy11OT10Q6K4OII) containing the data as well as some documentation of it.
+    In late 2024 and early 2025, the Department of Defense shared [several documents](https://drive.google.com/drive/u/4/folders/1zEmq3Wv4EtTh76zO9Xy11OT10Q6K4OII) containing the data and some documentation.
 ---
 
 *This request is a collaboration with journalist [Alec Gitelman](https://www.linkedin.com/in/alec-gitelman-2175902/).*
