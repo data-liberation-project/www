@@ -12,7 +12,7 @@ updates:
 - date: 2024-12-31T11:38:00-05:00
   title: Aggregate Records Provided
   body: >-
-    On December 31, 2024, the Department of Education provided a spreadsheet with aggregate numbers of borrowers and loan balances by state. Portions were withheld under FOIA Exemption (b)(6). The agency's response noted that "FSA cancer treatment deferment applications are not received by FSA systems,so FSA is unable to provide the data points as requested. You asked for individual data pointsbased on the applications/forms. However, FSA does not have the forms and so is unable toprovide the data."
+    On December 31, 2024, the Department of Education [provided a spreadsheet](https://drive.google.com/drive/u/6/folders/16mNfcDZ6-n7_gV-0MGqPeywe7sS2Kxmg) with aggregate numbers of borrowers and loan balances by state. Portions were withheld under FOIA Exemption (b)(6). The agency's response noted that "FSA cancer treatment deferment applications are not received by FSA systems,so FSA is unable to provide the data points as requested. You asked for individual data pointsbased on the applications/forms. However, FSA does not have the forms and so is unable toprovide the data."
 - date: 2023-10-11T11:38:00-05:00
   title: “No Records” Response
   body: >-
