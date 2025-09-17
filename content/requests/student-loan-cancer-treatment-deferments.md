@@ -3,7 +3,7 @@ title: Student Loan Cancer Treatment Deferments
 agency: Department of Education ▹ Federal Student Aid (FSA)
 date: 2023-04-27T00:00:00-04:00
 status: Partially Liberated
-status_link: 
+status_link: "/datasets/student-loan-cancer-treatment-deferments"
 request_id: 23-01639-F
 last_updated: 2025-09-17
 summary: We request data on cancer treatment deferment requests by borrowers of student loans. 
