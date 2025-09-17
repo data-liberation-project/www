@@ -2,12 +2,17 @@
 title: Student Loan Cancer Treatment Deferments
 agency: Department of Education ▹ Federal Student Aid (FSA)
 date: 2023-04-27T00:00:00-04:00
-status: “No Records” Response
+status: Partially Liberated
+status_link: 
 request_id: 23-01639-F
-last_updated: 2023-10-11
-summary: We're requesting data on cancer treatment deferment requests by borrowers of student loans. 
+last_updated: 2025-09-17
+summary: We request data on cancer treatment deferment requests by borrowers of student loans. 
 request_letter: https://www.documentcloud.org/documents/23790363-2023-04-27-edfsa-cancer-treatment-deferment-data-foia-request-singer-vinewilder
 updates:
+- date: 2024-12-31T11:38:00-05:00
+  title: Aggregate Records Provided
+  body: >-
+    On December 31, 2024, the Department of Education provided a spreadsheet with aggregate numbers of borrowers and loan balances by state. Portions were withheld under FOIA Exemption (b)(6). The agency's response noted that "FSA cancer treatment deferment applications are not received by FSA systems,so FSA is unable to provide the data points as requested. You asked for individual data pointsbased on the applications/forms. However, FSA does not have the forms and so is unable toprovide the data."
 - date: 2023-10-11T11:38:00-05:00
   title: “No Records” Response
   body: >-
