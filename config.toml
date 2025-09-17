@@ -1,6 +1,6 @@
 baseURL = "https://www.data-liberation-project.org/"
 languageCode = "en-us"
-title = "The Data Liberation Project"
+title = "Data Liberation Project"
 disableKinds = ["taxonomy", "taxonomyTerm", "term"]
 relativeURLs = true
 

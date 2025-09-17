@@ -1,15 +1,15 @@
 :root {
-    --bg-color: #F3F3F3;
-    --font-color: #333;
+    --bg-color: #F5F6F7;
+    --font-color: #36453F;
     --font-color-on-bg: var(--font-color);
-    --link-color: #333;
-    --border-color: #333;
-    --shadow-color: #333;
-    --link-hover-color: #333;
-    --link-decoration-color: #ffdd00;
-    --accent-color: #ffdd00;
+    --link-color: #36453F;
+    --border-color: #36453F;
+    --shadow-color: #36453F;
+    --link-hover-color: #36453F;
+    --link-decoration-color: #ECCB6B;
+    --accent-color: #ECCB6B;
     --input-bg: white;
-    --button-bg: #333;
+    --button-bg: #36453F;
     --button-fg: #FCFCFC;
     --button-hover-bg: var(--accent-color);
     --button-hover-fg: var(--font-color-on-bg);
@@ -21,18 +21,49 @@
     :root {
         --bg-color: #2A2A2A;
         --font-color: rgba(255, 255, 255, 0.85);
-        --font-color-on-bg: #333;
+        --font-color-on-bg: #36453F;
         --link-color: var(--font-color);
-        --border-color: #EEE;
+        --border-color: #F5F6F7;
         --shadow-color: #665800;
-        --input-bg: #EEE;
+        --input-bg: #F5F6F7;
         --button-bg: rgba(255, 255, 255, 0.85);
         --button-fg: #121212;
         --button-hover-bg: var(--accent-color);
         --button-hover-fg: var(--font-color-on-bg);
         --font-weight: 400;
-        --blockquote-color: #CCC;
+        --blockquote-color: #99A8B3;
     }
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url("/fonts/SourceSansPro-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url("/fonts/SourceSansPro-Italic.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url("/fonts/SourceSansPro-Semibold.ttf");
+  font-weight: 500 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url("/fonts/SourceSansPro-SemiboldItalic.ttf");
+  font-weight: 500 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  src: url("/fonts/SourceCodePro-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
 }
 
 html {
@@ -51,7 +82,7 @@ html {
 
 body {
     font-size: 1em;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: "Source Sans Pro", 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: var(--font-weight);
     color: var(--font-color);
     background-color: var(--bg-color);
@@ -141,6 +172,7 @@ li + li {
 }
 
 code {
+    font-family: "Source Code Pro", monospace;
     font-size: 0.85em;
     padding: 0em 0.1em;
 }
@@ -269,6 +301,16 @@ div.subscribe .button {
 
 .chip-item {
     padding: 1em;
+}
+
+.logo-chip {
+    background: var(--bg-color);
+}
+
+.logo-chip .dlp-logo {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .chip-home {
