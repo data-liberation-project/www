@@ -9,7 +9,7 @@ update_freq: FOIA-dependent
 related_request: epa-risk-management-program
 entrypoint:
   title: Main documentation
-  href: https://docs.google.com/document/d/1jrLXtv0knnACiPXJ1ZRFXR1GaPWCHJWWjin4rsthFbQ/edit
+  href: https://docs.google.com/document/d/1aSDXB5oN-JuQzquO0EwDlr_03p_tKDXsz946t5UgDdU/edit?tab=t.0
 summary: Data from the Risk Management Plans submitted by US facilities handling certain hazardous substances.
 
 ---
@@ -42,9 +42,9 @@ Beginning in December 2022, the DLP has received and processed several versions 
 
 Since first receiving the records, the Data Liberation Project and volunteers undertook efforts to understand, document, and process the data. We are providing: 
 
-- The [raw records](https://drive.google.com/drive/folders/1T3HkE3jLdukd7-KbMaz27gkGbDcsXfI) received via FOIA
-- Those records [converted to a SQLite database file](https://drive.google.com/drive/folders/12R_QjTKcfgCPpADWkFKgEoltKjLL1GLD)
+- The [raw records](https://dlp-cdn.muckrock.com/EPA%20RMP%20Data/index.html) received via FOIA
+- Those records [converted to a SQLite database file](https://dlp-cdn.muckrock.com/EPA%20RMP%20Data/index.html)
 - A [simple facility/submission browser and viewer](https://data-liberation-project.github.io/epa-rmp-viewer/)
 - A [set of simple spreadsheets](https://docs.google.com/spreadsheets/d/170UIeg_sweeqGWVQrjHWY-HNRqEPE9axbEroSEr4C3M/edit) providing an overview of each facility, submission, and reported accident
 
-To learn essential context about these resources, [visit our main documentation for the data](https://docs.google.com/document/d/1jrLXtv0knnACiPXJ1ZRFXR1GaPWCHJWWjin4rsthFbQ/edit).
+To learn essential context about these resources, [visit our main documentation for the data](https://docs.google.com/document/d/1aSDXB5oN-JuQzquO0EwDlr_03p_tKDXsz946t5UgDdU/edit?tab=t.0).

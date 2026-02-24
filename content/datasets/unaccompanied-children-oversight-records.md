@@ -7,7 +7,7 @@ update_freq: FOIA-dependent
 related_request: unaccompanied-children-oversight-records
 entrypoint:
   title: Introductory documentation
-  href: https://docs.google.com/document/d/1Ch1_yS5bD5F7iyJakLFX7UAZMj0U9X1Dh4mNDMA9-UE/edit
+  href: https://docs.google.com/document/d/1skuXR76SUUSIcc157Fp5Q1nhHRC4XdqbyXU3Smeff4I/edit?usp=share_link
 summary: Incident reports submitted by government-funded facilities caring for unaccompanied immigrant children.
 
 ---
@@ -20,4 +20,4 @@ ORR monitors the care facilities it funds, and it imposes a range of requirement
 
 Through a [FOIA request to ACF](https://www.data-liberation-project.org/requests/unaccompanied-children-oversight-records/), the Data Liberation Project has received 20 database tables with information about these incidents and reports. Unfortunately, the Data Liberation Project has some concerns about the completeness of the records — most notably, a core table seems to be missing.
 
-In communications with ACF, the agency appears to be aware of the situation and willing to rectify it. But because the Data Liberation Project doesn't know how long it will take to receive the missing records, and because some portions of the records may still be useful to the public in the meantime, we are releasing what we have so far. To familiarize yourself with the records and their caveats, please consult the Data Liberation Project's [introductory documentation for this data](https://docs.google.com/document/d/1Ch1_yS5bD5F7iyJakLFX7UAZMj0U9X1Dh4mNDMA9-UE/edit).
+In communications with ACF, the agency appears to be aware of the situation and willing to rectify it. But because the Data Liberation Project doesn't know how long it will take to receive the missing records, and because some portions of the records may still be useful to the public in the meantime, we are releasing what we have so far. To familiarize yourself with the records and their caveats, please consult the Data Liberation Project's [introductory documentation for this data](https://docs.google.com/document/d/1skuXR76SUUSIcc157Fp5Q1nhHRC4XdqbyXU3Smeff4I/edit?usp=share_link).

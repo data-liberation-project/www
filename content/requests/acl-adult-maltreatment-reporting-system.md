@@ -12,7 +12,7 @@ updates:
 - date: 2024-05-14T10:30:00-04:00
   title: Records Published
   body: >-
-    On May 14, 2024, the Data Liberation Project [published the responsive records](/datasets/national-adult-maltreatment-reporting-system), along with [documentation](https://docs.google.com/document/d/1gQVAWoC-vg__aN7YnZ_thkiCh2WbdCX9U0jIvrMiL5g/edit) describing what it has learned about them.
+    On May 14, 2024, the Data Liberation Project [published the responsive records](/datasets/national-adult-maltreatment-reporting-system), along with [documentation](https://docs.google.com/document/d/1_ubkzaFlVbstcdHD2WTxWwFPtCDtoKwn8EbmVBcYSO8/edit?tab=t.0) describing what it has learned about them.
 - date: 2024-04-10T11:25:00-04:00
   title: Records Received, DLP Processing
   body: >-

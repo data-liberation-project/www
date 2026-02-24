@@ -12,7 +12,7 @@ updates:
 - date: 2024-10-15T08:45:00-04:00
   title: Request Fulfilled
   body: >-
-    On October 15, 2024, the Department of Defense shared [several PDFs](https://drive.google.com/drive/u/6/folders/1YE8IreRoXXx82B07JWdnZLzHiI5s_FpY) containing the data as well as some documentation of it.
+    On October 15, 2024, the Department of Defense shared [several PDFs](https://dlp-cdn.muckrock.com/DOD%20Slot%20Machines/index.html) containing the data as well as some documentation of it.
 - date: 2024-08-16T08:45:00-04:00
   title: Rerouted Request Acknowledged
   body: >-

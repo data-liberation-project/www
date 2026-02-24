@@ -7,7 +7,7 @@ update_freq: FOIA-dependent
 related_request: cms-acute-hospital-care-at-home
 entrypoint:
   title: Main documentation
-  href: https://docs.google.com/document/d/1QThzzfaGWwq-RDd7fvQpTuUKJozBuQZJiFhcKt1ONX4/edit
+  href: https://docs.google.com/document/d/1-kV-Vht_t7_ghR0_RN6gdU9edpO9T5NQy-CncYCRGMo/edit?usp=share_link
 summary: Waiver applications and weekly/monthly reporting metrics from hospitals participating in the Acute Hospital Care at Home program.
 
 ---
@@ -41,4 +41,4 @@ On October 2, 2023, CMS provided an updated set of records — all waiver reques
 - The new release fixes an issue with the prior release, in which Measure 1c was missing for Tier 1 hospitals’ reported measures.
 - A series of internal identifiers, which had led the Data Liberation Project to release only a (lightly) redacted version of the previous files, have been removed; the raw files in the new release are available to the public in full.
 
-To access these resources and learn essential context about them, [visit our main documentation for the data](https://docs.google.com/document/d/1QThzzfaGWwq-RDd7fvQpTuUKJozBuQZJiFhcKt1ONX4/edit).
+To access these resources and learn essential context about them, [visit our main documentation for the data](https://docs.google.com/document/d/1-kV-Vht_t7_ghR0_RN6gdU9edpO9T5NQy-CncYCRGMo/edit?usp=share_link).

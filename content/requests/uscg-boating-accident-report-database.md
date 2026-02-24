@@ -12,7 +12,7 @@ updates:
 - date: 2024-08-12T18:45:00-04:00
   title: Records Published
   body: >-
-    On August 12, 2024, the Data Liberation Project [published the responsive records](/datasets/uscg-boating-accident-report-database/) and [documentation](https://docs.google.com/document/d/1lk0dnACzcj3Yo6DAjZbGKf_zFYkymor5IDwNxypnZpc/edit) describing the data and providing guidance for using it.
+    On August 12, 2024, the Data Liberation Project [published the responsive records](/datasets/uscg-boating-accident-report-database/) and [documentation](https://docs.google.com/document/d/1BJxWLZtRZUZPBcUiCdGgoYMfkhiZTrmt80bKA44eDpg/edit?tab=t.0) describing the data and providing guidance for using it.
 - date: 2024-07-12T14:50:00-04:00
   title: Records Provided
   body: >-

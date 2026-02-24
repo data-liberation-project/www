@@ -28,7 +28,7 @@ updates:
 - date: 2023-08-17T11:00:00-04:00
   title: Records Made Publicly Available
   body: >-
-    On August 17, 2023, the DLP made the records obtained through this FOIA request [available to the public](/datasets/va-ssvf-survey-data), along with DLP-written [documentation](https://docs.google.com/document/d/1unanFEUnBDVBMK9pmpb0EVvRlpB-jtRC6gwlXSN-If4/edit).
+    On August 17, 2023, the DLP made the records obtained through this FOIA request [available to the public](/datasets/va-ssvf-survey-data), along with DLP-written [documentation](https://docs.google.com/document/d/1HslbLI53loRIxBL1pWjAqb5Ws_WFJz_KAJMYhUevwGQ/edit?tab=t.0).
 
 ---
 

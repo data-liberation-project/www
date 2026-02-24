@@ -12,7 +12,7 @@ updates:
 - date: 2023-10-12T09:15:00-04:00
   title: Records Published
   body: >-
-    On October 12, 2023, the Data Liberation Project [published the records received](https://www.data-liberation-project.org/datasets/unaccompanied-children-oversight-records) through this request, along with [documentation](https://docs.google.com/document/d/1Ch1_yS5bD5F7iyJakLFX7UAZMj0U9X1Dh4mNDMA9-UE/edit) and a note about the DLP's concerns about the records' completeness.
+    On October 12, 2023, the Data Liberation Project [published the records received](https://www.data-liberation-project.org/datasets/unaccompanied-children-oversight-records) through this request, along with [documentation](https://docs.google.com/document/d/1skuXR76SUUSIcc157Fp5Q1nhHRC4XdqbyXU3Smeff4I/edit?tab=t.0) and a note about the DLP's concerns about the records' completeness.
 - date: 2023-09-07T13:15:00-04:00
   title: Records Provided, DLP Processing
   body: >-

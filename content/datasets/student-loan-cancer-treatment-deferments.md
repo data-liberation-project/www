@@ -7,7 +7,7 @@ update_freq: FOIA-dependent
 related_request: student-loan-cancer-treatment-deferments
 entrypoint:
   title: Spreadsheet provided by agency
-  href: https://drive.google.com/drive/u/6/folders/16mNfcDZ6-n7_gV-0MGqPeywe7sS2Kxmg
+  href: https://dlp-cdn.muckrock.com/ED%20Student%20Loan%20Cancer%20Treatment%20Deferments/index.html
 summary: Spreadsheet showing aggregate counts of borrowers and loan balances, by state, in 2020 and 2024.
 
 ---

@@ -7,7 +7,7 @@ update_freq: FOIA-dependent
 related_request: federal-inmate-complaints
 entrypoint:
   title: Introductory documentation
-  href: https://docs.google.com/document/d/1vTuyUFNqS9tex4_s4PgmhF8RTvTb-uFMN5ElDjjVHTM/edit
+  href: https://docs.google.com/document/d/1mHNdkDb62zW7n-p4A7b6XrkU9bwZ7Gn6-JWT-nFbc80/edit?usp=share_link
 summary: Data on 1.78 million complaint/appeal submissions filed by federal prison inmates between January 2000 and late May 2024, spanning nearly 1 million distinct cases. 
 
 ---
@@ -22,4 +22,4 @@ The records indicate when each filing was received, the case number the filing p
 
 To the best of our knowledge, the Data Liberation Project's publication of these records represents the first time that national, filing-level federal inmate complaint data have been made available to the general public.
 
-To get started with the data, please consult the Data Liberation Project's [introductory documentation](https://docs.google.com/document/d/1vTuyUFNqS9tex4_s4PgmhF8RTvTb-uFMN5ElDjjVHTM/edit).
+To get started with the data, please consult the Data Liberation Project's [introductory documentation](https://docs.google.com/document/d/1mHNdkDb62zW7n-p4A7b6XrkU9bwZ7Gn6-JWT-nFbc80/edit?usp=share_link).

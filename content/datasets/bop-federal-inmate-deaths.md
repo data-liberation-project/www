@@ -7,16 +7,16 @@ update_freq: FOIA-dependent
 related_request: bop-federal-inmate-deaths
 entrypoint:
   title: Spreadsheet provided by agency
-  href: https://docs.google.com/spreadsheets/d/1VyoVX2PEQXSaUJ9dNTvJ36HNBE5tGLcy/edit
+  href: https://dlp-cdn.muckrock.com/BOP%20Inmate%20Deaths/Records%20Received%202024-09/index.html
 summary: A spreadsheet of each federal inmate death since 2005, including demographic and cause-of-death information.
 
 ---
 
 On August 8, 2024, the Data Liberation Project [filed a FOIA request](https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/) to the Bureau of Prisons seeking data records representing each federal inmate death since 2005. 
 
-September 4, 2024, the agency [responded to the request 📄](https://www.documentcloud.org/documents/25141895-2024-09-04-determination-letter) and provided a [spreadsheet](https://docs.google.com/spreadsheets/d/1VyoVX2PEQXSaUJ9dNTvJ36HNBE5tGLcy/edit) with most of what we requested.
+September 4, 2024, the agency [responded to the request 📄](https://www.documentcloud.org/documents/25141895-2024-09-04-determination-letter) and provided a [spreadsheet](https://dlp-cdn.muckrock.com/BOP%20Inmate%20Deaths/Records%20Received%202024-09/index.html) with most of what we requested.
 
-The [spreadsheet](https://docs.google.com/spreadsheets/d/1VyoVX2PEQXSaUJ9dNTvJ36HNBE5tGLcy/edit) contains 8,242 entries, each representing a deceased inmate. It contains the following columns:
+The [spreadsheet](https://dlp-cdn.muckrock.com/BOP%20Inmate%20Deaths/Records%20Received%202024-09/index.html) contains 8,242 entries, each representing a deceased inmate. It contains the following columns:
 
 - `RegisterNum`: [BOP Register Number](https://www.bop.gov/inmateloc/)
 - `NameLast`: Last name; no first names provided

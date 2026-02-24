@@ -7,7 +7,7 @@ update_freq: FOIA-dependent
 related_request: doi-water-use-inventory
 entrypoint:
   title: Introductory documentation
-  href: https://docs.google.com/document/d/1fzj-0DEpM2o5s37R7ixI2khjAbYDbT655EvnKWyvVkg/edit
+  href: https://docs.google.com/document/d/15061f9rt8GJEjPydHgGgOWGOYDA9m9YXIJuIZNBGSdg/edit?usp=share_link
 summary: Site-level records from the USGS's water use inventory, indicating volumes of and types of water conveyed in a given year.
 
 ---
@@ -16,7 +16,7 @@ The Department of the Interior's US Geological Survey (USGS) is in charge of mai
 
 In conversations with the FOIA team at USGS, the Data Liberation Project agreed to narrow the request’s focus to records that existed as structured data — forgoing records that the agency only had in PDF, Word, or other non-structured formats.
 
-On March 6, 2024, USGS provided a [set of responsive records](https://drive.google.com/drive/folders/1pUKjcHcTBfpZULAY05EbOqL5Ih8g9LW6?usp=drive_link):
+On March 6, 2024, USGS provided a [set of responsive records](https://dlp-cdn.muckrock.com/USGS%20National%20Water%20Use%20Inventory/index.html):
 
 - 50 state/territory-specific spreadsheets, containing site-level water conveyance data, covering 49 states (minus New Jersey) and Puerto Rico
 - 1 spreadsheet containing conveyance data for “multiple states for which there is only withdrawal information but no delivery information”
@@ -28,4 +28,4 @@ Unfortunately, USGS has redacted the majority of site identifiers (as well as ma
 
 Even so, we believe that the records are of substantial public value, and appear to be the first time national, site-level conveyance data has been publicly available.
 
-To get started with the records, please consult the Data Liberation Project's [introductory documentation](https://docs.google.com/document/d/1fzj-0DEpM2o5s37R7ixI2khjAbYDbT655EvnKWyvVkg/edit).
+To get started with the records, please consult the Data Liberation Project's [introductory documentation](https://docs.google.com/document/d/15061f9rt8GJEjPydHgGgOWGOYDA9m9YXIJuIZNBGSdg/edit?usp=share_link).

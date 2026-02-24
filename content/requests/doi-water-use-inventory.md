@@ -17,7 +17,7 @@ updates:
 - date: 2024-04-08T22:00:00-04:00
   title: Records Published
   body: >-
-    On April 8, 2024, the Data Liberation Project [published the responsive records](/datasets/usgs-water-use-inventory), [documentation](https://docs.google.com/document/d/1fzj-0DEpM2o5s37R7ixI2khjAbYDbT655EvnKWyvVkg/edit) describing what it has learned about the data, as well as a [GitHub repository](https://github.com/data-liberation-project/usgs-water-use-inventory-processing) combining and assessing the records.
+    On April 8, 2024, the Data Liberation Project [published the responsive records](/datasets/usgs-water-use-inventory), [documentation](https://docs.google.com/document/d/15061f9rt8GJEjPydHgGgOWGOYDA9m9YXIJuIZNBGSdg/edit?tab=t.0) describing what it has learned about the data, as well as a [GitHub repository](https://github.com/data-liberation-project/usgs-water-use-inventory-processing) combining and assessing the records.
 - date: 2024-03-06T16:15:00-05:00
   title: Records Provided
   body: >-

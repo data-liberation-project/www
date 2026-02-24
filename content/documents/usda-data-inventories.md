@@ -16,7 +16,7 @@ On January 30, 2023, the [Data Liberation Project](https://www.data-liberation-p
 
 On July 26, 2023, the USDA emailed [its response 📄](https://www.documentcloud.org/documents/23894814-2023-07-26-2023-da-01942-f-final-response_x): "The [Office of the Chief Information Officer] searched for records responsive to your request between January 1, 2013 and the present. The search identified one excel spreadsheet responsive to your request. The spreadsheet is being released to you in full, with no exemptions applied."
 
-[The spreadsheet](https://docs.google.com/spreadsheets/d/1Gw9AMAABZhHhwTjUI1VoA-ned4LMTfA4/edit) lists 2,985 active, proposed, in-development, phasing-out, and retired databases and information systems. Its 23 columns provide a range of attributes about each system, including:
+[The spreadsheet](https://dlp-cdn.muckrock.com/USDA%20Data%20Inventories%20(2023-DA-01942-F)/index.html) lists 2,985 active, proposed, in-development, phasing-out, and retired databases and information systems. Its 23 columns provide a range of attributes about each system, including:
 
 - `Name`
 - `Aliases`

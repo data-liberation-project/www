@@ -7,7 +7,7 @@ update_freq: FOIA-dependent
 related_request: uscg-boating-accident-report-database
 entrypoint:
   title: Introductory documentation
-  href: https://docs.google.com/document/d/1lk0dnACzcj3Yo6DAjZbGKf_zFYkymor5IDwNxypnZpc/edit
+  href: https://docs.google.com/document/d/1BJxWLZtRZUZPBcUiCdGgoYMfkhiZTrmt80bKA44eDpg/edit?usp=share_link
 summary: Data on 58,430 boating accidents that occurred in 2009–2023 and were reported to state authorities.
 
 ---
@@ -32,12 +32,12 @@ In April 2024, a representative of USCG contacted the DLP to ask whether we woul
 
 On July 12, 2024, the USCG provided the requested records, which the Data Liberation Project is making fully available to the public:
 
-- [Three Microsoft Access (.accdb) database files](https://drive.google.com/drive/folders/1f_9Y6Q6PaoTSgNOYCH8DqTwuOnfmQH-c?usp=drive_link), each covering a distinct time period (2009–2013, 2014–2022, and 2023). To increase the accessibility of the records, the Data Liberation Project has also converted these files into [three additional formats](https://drive.google.com/drive/folders/1i21VMwkCmAlyWpFh1u1b80JFIA870Dg3): [SQLite](https://drive.google.com/drive/folders/1lVAg-LLy9jo5UZsznsSxIbxTnrv7lt0O?usp=drive_link), [CSV](https://drive.google.com/drive/folders/1iUdp1wxP25kU2yCMSDs90R24FiUhpzln?usp=drive_link), and [Parquet](https://drive.google.com/drive/folders/1DUQFs6N8ZtZr66Jsma0ruF0EMZQlrt-R?usp=drive_link).
+- [Three Microsoft Access (.accdb) database files](https://dlp-cdn.muckrock.com/USCG%20Boating%20Accident%20Report%20Database%20(BARD)/Raw%20Files%20Received/index.html), each covering a distinct time period (2009–2013, 2014–2022, and 2023). To increase the accessibility of the records, the Data Liberation Project has also converted these files into [three additional formats](https://dlp-cdn.muckrock.com/USCG%20Boating%20Accident%20Report%20Database%20(BARD)/Converted%20Files/index.html): [SQLite](https://dlp-cdn.muckrock.com/USCG%20Boating%20Accident%20Report%20Database%20(BARD)/Converted%20Files/SQLite/index.html), [CSV](https://dlp-cdn.muckrock.com/USCG%20Boating%20Accident%20Report%20Database%20(BARD)/Converted%20Files/CSV/index.html) and [Parquet](https://dlp-cdn.muckrock.com/USCG%20Boating%20Accident%20Report%20Database%20(BARD)/Converted%20Files/Parquet/index.html).
 
-- [A database dictionary](https://docs.google.com/document/d/1lHcn5g46CHG5UGxKCNbwFj3jRh0p5Jjz/edit) describing the data’s tables and fields.
+- [A database dictionary](https://dlp-cdn.muckrock.com/USCG%20Boating%20Accident%20Report%20Database%20(BARD)/Raw%20Files%20Received/index.html) describing the data’s tables and fields.
   - Based on the specific fields included, it appears that this dictionary is based on the 2014–2022 version of the database.
 
-- [A “notes” file](https://docs.google.com/document/d/1bBrOJ3ib15340AoLpVR6s0n8MXnJHMEN/edit) describing the compilation of the records, from the USCG Office of Auxiliary and Boating Safety.
+- [A “notes” file](https://dlp-cdn.muckrock.com/USCG%20Boating%20Accident%20Report%20Database%20(BARD)/Raw%20Files%20Received/index.html) describing the compilation of the records, from the USCG Office of Auxiliary and Boating Safety.
 
 In total, the records describe:
 

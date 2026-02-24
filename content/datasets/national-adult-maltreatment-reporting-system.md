@@ -7,7 +7,7 @@ update_freq: FOIA-dependent
 related_request: acl-adult-maltreatment-reporting-system
 entrypoint:
   title: Introductory documentation
-  href: https://docs.google.com/document/d/1gQVAWoC-vg__aN7YnZ_thkiCh2WbdCX9U0jIvrMiL5g/edit
+  href: https://docs.google.com/document/d/1_ubkzaFlVbstcdHD2WTxWwFPtCDtoKwn8EbmVBcYSO8/edit?usp=share_link
 summary: Agency- and case-level data from “the first comprehensive, national reporting system for adult protective services programs.”
 
 ---
@@ -25,4 +25,4 @@ The system “[consist\[s\] of three components](https://www.federalregister.gov
 
 On April 10, 2024, ACL provided a data transfer that completed its provision of records in response to this request, including substantial portions of all components described above.
 
-To get started with the records, please consult the Data Liberation Project's [introductory documentation](https://docs.google.com/document/d/1fzj-0DEpM2o5s37R7ixI2khjAbYDbT655EvnKWyvVkg/edit).
+To get started with the records, please consult the Data Liberation Project's [introductory documentation](https://docs.google.com/document/d/1_ubkzaFlVbstcdHD2WTxWwFPtCDtoKwn8EbmVBcYSO8/edit?usp=share_link).

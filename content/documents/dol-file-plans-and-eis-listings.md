@@ -20,10 +20,10 @@ In all, after un-zipping the files, there appear to be **425 documents**. By for
 
 The Data Liberation Project is making the files available to all. You can access them in two ways:
 
-- As a [folder on Google Drive](https://drive.google.com/drive/folders/1USE50Io6S-0AkbMG_L29m68YlV9Kxav2?usp=sharing), available to download in bulk
+- As [folders](https://dlp-cdn.muckrock.com/DOL%20File%20Plans%20and%20EIS%20Listings/index.html), available to download in bulk
 - As a [project on DocumentCloud](https://www.documentcloud.org/app?q=+project:dol-file-plans-and-eis-li-213626%20), where you can search across all records (excluding the 13 `.msg` files)
 
-To help organize the files, the Data Liberation Project has also created a [spreadsheet listing them](https://docs.google.com/spreadsheets/d/1L77Idw7tyhq2mRP-KHWfTzachuuTJlowc1h4lmFvqYU/edit), indicating their:
+To help organize the files, the Data Liberation Project has also created a [spreadsheet listing them](https://dlp-cdn.muckrock.com/DOL%20File%20Plans%20and%20EIS%20Listings/Records%20Provided%20via%20DOL%20FOIA%202023-F-08834.xlsx), indicating their:
 
 - Directory
 - Filename
@@ -35,7 +35,4 @@ To help organize the files, the Data Liberation Project has also created a [spre
 
 The most recent files appear to have been created in late 2019 / early 2020. "DOL has not created any new files plans or EIS listings since those dates," according to the Department of Labor's FOIA coordinator for this request, in follow-up correspondence with the Data Liberation Project.
 
-Most of the files are specific to a subagency (such as the [Wage and Hour Division](https://www.dol.gov/agencies/whd)), sub-subagency, or field office. A few files, however, appear to be DOL-wide. The two most notable are these:
-
-- [`DRAFT of 2015 EIS Review.xls`](https://docs.google.com/spreadsheets/d/1NNzI4SIdoyTfU8z9diCbW56D1JGzIdGw/edit), which lists and describes hundreds of DOL electronic information systems, including investigation case management systems, price-tracking databases, and survey files.
-- [`2018 EIS Reivew 2018_Complete.xlsx`](ttps://docs.google.com/spreadsheets/d/1bs6E5H-wTtzIg4oQFXF32Hnz7IKGjXZr/edit), a similar file that appears to be more recent but possibly includes fewer systems.
+Most of the files are specific to a subagency (such as the [Wage and Hour Division](https://www.dol.gov/agencies/whd)), sub-subagency, or field office.

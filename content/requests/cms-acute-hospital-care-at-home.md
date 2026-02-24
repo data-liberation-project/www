@@ -20,7 +20,7 @@ updates:
 - date: 2023-07-25T09:00:00-04:00
   title: Records Made Publicly Available
   body: >-
-    On July 25, 2023, the DLP made the records obtained through this FOIA request [available to the public](/datasets/cms-acute-hospital-care-at-home), along with DLP-written [documentation](https://docs.google.com/document/d/1QThzzfaGWwq-RDd7fvQpTuUKJozBuQZJiFhcKt1ONX4/edit).
+    On July 25, 2023, the DLP made the records obtained through this FOIA request [available to the public](/datasets/cms-acute-hospital-care-at-home), along with DLP-written [documentation](https://docs.google.com/document/d/1-kV-Vht_t7_ghR0_RN6gdU9edpO9T5NQy-CncYCRGMo/edit?tab=t.0).
 
 ---
 

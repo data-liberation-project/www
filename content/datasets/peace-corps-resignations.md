@@ -7,14 +7,14 @@ update_freq: FOIA-dependent
 related_request: peace-corps-resignations
 entrypoint:
   title: Spreadsheet provided by agency
-  href: https://docs.google.com/spreadsheets/d/1h7Fj67isuuFUX5lW10IE6B6Cn1bvGtF9/edit
+  href: https://dlp-cdn.muckrock.com/Peace%20Corps%2023-0102%20(Resignation%20Counts)/index.html
 summary: Counts of resigned Peace Corps volunteers by post and resignation reasons.
 
 ---
 
 If a Peace Corps volunteer chooses to resign from their position (as opposed to ending their service due to a medical condition or regional political situation), an assessment of the reason for this resignation is made by a supervising staff officer and collected via [Form MS-284 Attachment D](https://files.peacecorps.gov/documents/MS-284-Attachment-D.pdf) (“Resignation Form”). 
 
-[Our FOIA request](https://www.data-liberation-project.org/requests/peace-corps-resignations/) sought all database records collected through that form. At first, the Peace Corps sent [a document with few details and all of the numbers redacted](https://www.documentcloud.org/documents/23870103-2023-05-02-resignation-reasons_redacted). The Data Liberation Project and co-requestor [Corin Faife](https://corinfaife.co/) successfully appealed that initial response; upon [granting the appeal](https://www.documentcloud.org/documents/24024460-2023-08-11-23-0186-appeal-response-letter), the agency provided a [spreadsheet](https://docs.google.com/spreadsheets/d/1h7Fj67isuuFUX5lW10IE6B6Cn1bvGtF9/edit#gid=1422850053) listing the number of resigned Peace Corps volunteers by post and resignation reasons through July 2023.
+[Our FOIA request](https://www.data-liberation-project.org/requests/peace-corps-resignations/) sought all database records collected through that form. At first, the Peace Corps sent [a document with few details and all of the numbers redacted](https://www.documentcloud.org/documents/23870103-2023-05-02-resignation-reasons_redacted). The Data Liberation Project and co-requestor [Corin Faife](https://corinfaife.co/) successfully appealed that initial response; upon [granting the appeal](https://www.documentcloud.org/documents/24024460-2023-08-11-23-0186-appeal-response-letter), the agency provided a [spreadsheet](https://dlp-cdn.muckrock.com/Peace%20Corps%2023-0102%20(Resignation%20Counts)/index.html) listing the number of resigned Peace Corps volunteers by post and resignation reasons through July 2023.
 
 Each row in the spreadsheet indicates:
 

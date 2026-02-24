@@ -12,7 +12,7 @@ updates:
 - date: 2024-07-09T10:00:00-04:00
   title: Records Published
   body: >-
-    On July 9, 2024, the Data Liberation Project [published the responsive records](/datasets/federal-inmate-complaints) and [documentation](https://docs.google.com/document/d/1vTuyUFNqS9tex4_s4PgmhF8RTvTb-uFMN5ElDjjVHTM/edit) describing the data and providing guidance for using it.
+    On July 9, 2024, the Data Liberation Project [published the responsive records](/datasets/federal-inmate-complaints) and [documentation](https://docs.google.com/document/d/1mHNdkDb62zW7n-p4A7b6XrkU9bwZ7Gn6-JWT-nFbc80/edit?tab=t.0) describing the data and providing guidance for using it.
 - date: 2024-06-10T09:57:00-04:00
   title: Records Provided
   body: >-
