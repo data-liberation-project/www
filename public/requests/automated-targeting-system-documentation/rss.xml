@@ -2,35 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates: Automated Targeting System Documentation [Records Request]</title>
-    <link>https://www.data-liberation-project.org/requests/automated-targeting-system-documentation/</link>
+    <link>http://localhost:1313/requests/automated-targeting-system-documentation/</link>
     <description>Updates on the Data Liberation Project's Automated Targeting System Documentation request</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 May 2024 17:25:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/automated-targeting-system-documentation/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2024 10:00:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/requests/automated-targeting-system-documentation/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appeal Denied</title>
+      <link>http://localhost:1313/requests/automated-targeting-system-documentation/#update-appeal-denied</link>
+      <pubDate>Wed, 11 Sep 2024 10:00:00 -0500</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>http://localhost:1313/requests/automated-targeting-system-documentation/#update-appeal-denied</guid>
+      <description>On September 11, 2024, &lt;a href=&#34;https://www.documentcloud.org/documents/25352910-cbp-automated-targeting-system-appeal-denial&#34;&gt;CBP rejected our appeal&lt;/a&gt;. The FOIA Appeals &amp;amp; Policy Branch affirmed that the FOIA Division properly understood our request and denied it as overburdensome. They added that, in any case, the records &amp;ldquo;would likely be withheld pursuant to FOIA exemption (b)(7)(E), because release of such information would cause harm to the agency by exposing to the public how ATS is designed and operated.&amp;rdquo;</description>
+    </item>
+    
     <item>
       <title>Denial Appealed</title>
-      <link>https://www.data-liberation-project.org/requests/automated-targeting-system-documentation/#update-denial-appealed</link>
+      <link>http://localhost:1313/requests/automated-targeting-system-documentation/#update-denial-appealed</link>
       <pubDate>Thu, 16 May 2024 17:25:00 -0400</pubDate>
       <author>The Data Liberation Project</author>
-      <guid>https://www.data-liberation-project.org/requests/automated-targeting-system-documentation/#update-denial-appealed</guid>
+      <guid>http://localhost:1313/requests/automated-targeting-system-documentation/#update-denial-appealed</guid>
       <description>On May 16, 2024, the Data Liberation Project submitted an &lt;a href=&#34;https://www.documentcloud.org/documents/24664484-2024-05-16-appeal-of-cbp-fo-2023-006535&#34;&gt;appeal of CBP&amp;rsquo;s denial 📄&lt;/a&gt;, arguing that CBP misinterpreted the scope of the request and did not give the DLP an opportunity to discuss and/or narrow it.</description>
     </item>
     
     <item>
       <title>Request Denied</title>
-      <link>https://www.data-liberation-project.org/requests/automated-targeting-system-documentation/#update-request-denied</link>
+      <link>http://localhost:1313/requests/automated-targeting-system-documentation/#update-request-denied</link>
       <pubDate>Tue, 20 Feb 2024 11:20:00 -0500</pubDate>
       <author>The Data Liberation Project</author>
-      <guid>https://www.data-liberation-project.org/requests/automated-targeting-system-documentation/#update-request-denied</guid>
+      <guid>http://localhost:1313/requests/automated-targeting-system-documentation/#update-request-denied</guid>
       <description>On February 20, 2024, CBP sent an &lt;a href=&#34;https://www.documentcloud.org/documents/24537879-2024-02-20-cbp-foia-cbp-fo-2023-006535&#34;&gt;email denying our request 📄&lt;/a&gt;, arguing that &amp;ldquo;we have determined that your request is too broad in scope and it is being closed as overburdensome on the agency as it is estimated that pulling the data will take one full-time person over four years and will cause interruptions to normal operations.&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Request Acknowledged</title>
-      <link>https://www.data-liberation-project.org/requests/automated-targeting-system-documentation/#update-request-acknowledged</link>
+      <link>http://localhost:1313/requests/automated-targeting-system-documentation/#update-request-acknowledged</link>
       <pubDate>Tue, 20 Dec 2022 07:48:00 -0500</pubDate>
       <author>The Data Liberation Project</author>
-      <guid>https://www.data-liberation-project.org/requests/automated-targeting-system-documentation/#update-request-acknowledged</guid>
+      <guid>http://localhost:1313/requests/automated-targeting-system-documentation/#update-request-acknowledged</guid>
       <description>On December 20, 2022, CBP sent an &lt;a href=&#34;https://www.documentcloud.org/documents/23487660-2022-12-20-cbp-fo-2023-006535-acknowledment&#34;&gt;email acknowledging our request 📄&lt;/a&gt;.</description>
     </item>
     

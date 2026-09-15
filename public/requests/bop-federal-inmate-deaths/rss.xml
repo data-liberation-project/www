@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates: Federal Inmate Deaths [Records Request]</title>
-    <link>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/</link>
+    <link>http://localhost:1313/requests/bop-federal-inmate-deaths/</link>
     <description>Updates on the Data Liberation Project's Federal Inmate Deaths request</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Sep 2024 08:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 08:00:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/requests/bop-federal-inmate-deaths/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Records Published</title>
-      <link>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/#update-records-published</link>
+      <link>http://localhost:1313/requests/bop-federal-inmate-deaths/#update-records-published</link>
       <pubDate>Wed, 18 Sep 2024 08:00:00 -0400</pubDate>
       <author>The Data Liberation Project</author>
-      <guid>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/#update-records-published</guid>
+      <guid>http://localhost:1313/requests/bop-federal-inmate-deaths/#update-records-published</guid>
       <description>On September 18, 2024, the Data Liberation Project &lt;a href=&#34;../../datasets/bop-federal-inmate-deaths&#34;&gt;published the responsive records&lt;/a&gt;.</description>
     </item>
     
     <item>
       <title>Records Received</title>
-      <link>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/#update-records-received</link>
+      <link>http://localhost:1313/requests/bop-federal-inmate-deaths/#update-records-received</link>
       <pubDate>Wed, 04 Sep 2024 18:06:00 -0400</pubDate>
       <author>The Data Liberation Project</author>
-      <guid>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/#update-records-received</guid>
+      <guid>http://localhost:1313/requests/bop-federal-inmate-deaths/#update-records-received</guid>
       <description>On September 4, 2024, BOP &lt;a href=&#34;https://www.documentcloud.org/documents/25141895-2024-09-04-determination-letter&#34;&gt;sent a determination letter 📄&lt;/a&gt; along with a spreadsheet containing responsive records, which the Data Liberation Project has begun reviewing for publication.</description>
     </item>
     
     <item>
       <title>Request Acknowledged</title>
-      <link>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/#update-request-acknowledged</link>
+      <link>http://localhost:1313/requests/bop-federal-inmate-deaths/#update-request-acknowledged</link>
       <pubDate>Fri, 16 Aug 2024 13:46:00 -0400</pubDate>
       <author>The Data Liberation Project</author>
-      <guid>https://www.data-liberation-project.org/requests/bop-federal-inmate-deaths/#update-request-acknowledged</guid>
+      <guid>http://localhost:1313/requests/bop-federal-inmate-deaths/#update-request-acknowledged</guid>
       <description>On August 16, 2024, BOP &lt;a href=&#34;https://www.documentcloud.org/documents/25050934-2024-08-16-foia-request-2024-05021&#34;&gt;acknowledged 📄&lt;/a&gt; this request, placed it on its &amp;ldquo;complex&amp;rdquo; processing track, and assigned it case number &lt;code&gt;2024-05021&lt;/code&gt;.</description>
     </item>
     

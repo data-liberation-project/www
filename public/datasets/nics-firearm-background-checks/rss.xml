@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates: Firearm Background Check Counts [Dataset]</title>
-    <link>https://www.data-liberation-project.org/datasets/nics-firearm-background-checks/</link>
+    <link>http://localhost:1313/datasets/nics-firearm-background-checks/</link>
     <description>Updates on the Data Liberation Project's Firearm Background Check Counts dataset</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/datasets/nics-firearm-background-checks/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/datasets/nics-firearm-background-checks/rss.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

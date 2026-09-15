@@ -1,55 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Singletons on The Data Liberation Project</title>
-    <link>https://www.data-liberation-project.org/singleton/</link>
-    <description>Recent content in Singletons on The Data Liberation Project</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.data-liberation-project.org/singleton/rss.xml" rel="self" type="application/rss+xml" />
+    <title>Singletons on Data Liberation Project</title>
+    <link>http://localhost:1313/singleton/</link>
+    <description>Recent content in Singletons on Data Liberation Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/singleton/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://www.data-liberation-project.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.data-liberation-project.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>The what, why, how, when, where, and who of the Data Liberation Project.</description>
     </item>
-    
     <item>
       <title>Contact Information</title>
-      <link>https://www.data-liberation-project.org/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.data-liberation-project.org/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>Feedback, questions, suggestions? Get in touch.</description>
     </item>
-    
     <item>
       <title>Get Involved</title>
-      <link>https://www.data-liberation-project.org/get-involved/</link>
+      <link>http://localhost:1313/get-involved/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.data-liberation-project.org/get-involved/</guid>
+      <guid>http://localhost:1313/get-involved/</guid>
       <description>The Data Liberation Project welcomes collaborators, pro bono lawyers, funders, and pretty much anyone else.</description>
     </item>
-    
     <item>
       <title>Subscribe to Our Newsletter</title>
-      <link>https://www.data-liberation-project.org/newsletter/</link>
+      <link>http://localhost:1313/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.data-liberation-project.org/newsletter/</guid>
-      <description>We&amp;rsquo;ll send you semi-regular news about our records requests, datasets liberated, partnership opportunities, and helpful resources.</description>
+      <guid>http://localhost:1313/newsletter/</guid>
+      <description>MuckRock organizes volunteer efforts for the Data Liberation Project. Sign up for the MuckRock newsletter to stay up to date with requests and news.</description>
     </item>
-    
     <item>
       <title>Whoops! Page not found.</title>
-      <link>https://www.data-liberation-project.org/404/</link>
+      <link>http://localhost:1313/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.data-liberation-project.org/404/</guid>
+      <guid>http://localhost:1313/404/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

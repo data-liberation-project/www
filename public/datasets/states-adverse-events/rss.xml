@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates: Health Care Adverse Events [Dataset]</title>
+    <link>http://localhost:1313/datasets/states-adverse-events/</link>
+    <description>Updates on the Data Liberation Project's Health Care Adverse Events dataset</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2026 11:58:26 -0400</lastBuildDate><atom:link href="http://localhost:1313/datasets/states-adverse-events/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

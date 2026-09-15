@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Updates: Excess Defense Article Transfers [Records Request]</title>
-    <link>https://www.data-liberation-project.org/requests/dod-excess-defense-article-transfers/</link>
-    <description>Updates on the Data Liberation Project's Excess Defense Article Transfers request</description>
+    <title>Updates: DOD Excess Defense Article Transfers [Records Request]</title>
+    <link>http://localhost:1313/requests/dod-excess-defense-article-transfers/</link>
+    <description>Updates on the Data Liberation Project's DOD Excess Defense Article Transfers request</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/dod-excess-defense-article-transfers/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Nov 2024 08:45:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/requests/dod-excess-defense-article-transfers/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Request Fulfilled</title>
+      <link>http://localhost:1313/requests/dod-excess-defense-article-transfers/#update-request-fulfilled</link>
+      <pubDate>Fri, 15 Nov 2024 08:45:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>http://localhost:1313/requests/dod-excess-defense-article-transfers/#update-request-fulfilled</guid>
+      <description>In late 2024 and early 2025, the Department of Defense shared &lt;a href=&#34;../../datasets/dod-excess-defense-article-transfers&#34;&gt;several documents&lt;/a&gt; containing the data and some documentation.</description>
+    </item>
+    
+    
   </channel>
 </rss>

@@ -3,13 +3,6 @@
 <div class="metadata">
     <div class="metadata-item"><div class="metadata-label">Submitted</div><div class="metadata-value"> {{ .Date.Format "January 2, 2006" }}{{ if .Params.date_resubmitted }} (resubmitted {{ time.Format "January 2, 2006" .Params.date_resubmitted }}){{ end }}</div></div>
     <div class="metadata-item"><div class="metadata-label">Agency</div><div class="metadata-value">{{ .Params.agency }}</div></div>
-    <div class="metadata-item"><div class="metadata-label">Request ID</div><div class="metadata-value">
-            {{ if .Params.request_id }}
-            {{ .Params.request_id }}
-            {{ else }}
-            <i>Not yet assigned</i>
-            {{ end }}
-    </div></div>
     <div class="metadata-item">
         <div class="metadata-label">Status</div>
         <div class="metadata-value">

@@ -2,17 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates: Political Candidates’ Airline Credit [Records Request]</title>
-    <link>https://www.data-liberation-project.org/requests/dot-political-candidate-airline-credit/</link>
+    <link>http://localhost:1313/requests/dot-political-candidate-airline-credit/</link>
     <description>Updates on the Data Liberation Project's Political Candidates’ Airline Credit request</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2024 11:56:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/dot-political-candidate-airline-credit/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jul 2025 11:56:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/requests/dot-political-candidate-airline-credit/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Document Published</title>
+      <link>http://localhost:1313/requests/dot-political-candidate-airline-credit/#update-document-published</link>
+      <pubDate>Sun, 06 Jul 2025 11:56:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>http://localhost:1313/requests/dot-political-candidate-airline-credit/#update-document-published</guid>
+      <description>On July 6, 2025, the Data Liberation Project &lt;a href=&#34;https://www.data-liberation-project.org/datasets/dot-political-candidate-airline-credit&#34;&gt;published the document&lt;/a&gt; received from the Department of Transportation.</description>
+    </item>
+    
+    <item>
+      <title>Document Provided</title>
+      <link>http://localhost:1313/requests/dot-political-candidate-airline-credit/#update-document-provided</link>
+      <pubDate>Thu, 25 Jul 2024 11:56:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>http://localhost:1313/requests/dot-political-candidate-airline-credit/#update-document-provided</guid>
+      <description>On July 25, 2024, the Department of Transportation provided a 71-page PDF collating forms from various airlines. The DLP later confirmed with the agency that this was all the documentation it had available.</description>
+    </item>
+    
     <item>
       <title>Request Acknowledged</title>
-      <link>https://www.data-liberation-project.org/requests/dot-political-candidate-airline-credit/#update-request-acknowledged</link>
+      <link>http://localhost:1313/requests/dot-political-candidate-airline-credit/#update-request-acknowledged</link>
       <pubDate>Thu, 25 Apr 2024 11:56:00 -0400</pubDate>
       <author>The Data Liberation Project</author>
-      <guid>https://www.data-liberation-project.org/requests/dot-political-candidate-airline-credit/#update-request-acknowledged</guid>
+      <guid>http://localhost:1313/requests/dot-political-candidate-airline-credit/#update-request-acknowledged</guid>
       <description>On April 25, 2024, the Department of Transportation emailed a &lt;a href=&#34;https://www.documentcloud.org/documents/24608725-2024-04-25-ost-acknowledgement-template&#34;&gt;letter 📄&lt;/a&gt; acknowledging this request and assigning it tracking number OST-2024-0388.</description>
     </item>
     

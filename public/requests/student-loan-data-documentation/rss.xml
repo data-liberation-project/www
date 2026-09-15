@@ -2,26 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates: Student Loan Data Documentation [Records Request]</title>
-    <link>https://www.data-liberation-project.org/requests/student-loan-data-documentation/</link>
+    <link>http://localhost:1313/requests/student-loan-data-documentation/</link>
     <description>Updates on the Data Liberation Project's Student Loan Data Documentation request</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 08:21:00 -0400</lastBuildDate><atom:link href="https://www.data-liberation-project.org/requests/student-loan-data-documentation/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jul 2025 13:44:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/requests/student-loan-data-documentation/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documents Published</title>
+      <link>http://localhost:1313/requests/student-loan-data-documentation/#update-documents-published</link>
+      <pubDate>Sun, 06 Jul 2025 13:44:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>http://localhost:1313/requests/student-loan-data-documentation/#update-documents-published</guid>
+      <description>On July 6, 2025, the Data Liberation Project &lt;a href=&#34;https://www.data-liberation-project.org/documents/student-loan-data-documentation/&#34;&gt;published 2,327 pages of data documentation&lt;/a&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Partial Documents Provided</title>
+      <link>http://localhost:1313/requests/student-loan-data-documentation/#update-partial-documents-provided</link>
+      <pubDate>Fri, 27 Dec 2024 13:44:00 -0400</pubDate>
+      <author>The Data Liberation Project</author>
+      <guid>http://localhost:1313/requests/student-loan-data-documentation/#update-partial-documents-provided</guid>
+      <description>On December 27, 2024, the Department of Education provided a &lt;a href=&#34;https://www.documentcloud.org/documents/25991996-doe-student-loan-documentation-response-letter-122724/&#34;&gt;response letter&lt;/a&gt; and &lt;a href=&#34;https://dlp-cdn.muckrock.com/ED%20Student%20Loan%20Data%20Documentation/index.html&#34;&gt;2,327 pages related to the NSLDS and COD systems&lt;/a&gt;.</description>
+    </item>
+    
     <item>
       <title>20-Day Notification</title>
-      <link>https://www.data-liberation-project.org/requests/student-loan-data-documentation/#update-20-day-notification</link>
+      <link>http://localhost:1313/requests/student-loan-data-documentation/#update-20-day-notification</link>
       <pubDate>Mon, 31 Oct 2022 08:21:00 -0400</pubDate>
       <author>The Data Liberation Project</author>
-      <guid>https://www.data-liberation-project.org/requests/student-loan-data-documentation/#update-20-day-notification</guid>
+      <guid>http://localhost:1313/requests/student-loan-data-documentation/#update-20-day-notification</guid>
       <description>On October 31, 2022, the Department of Education &lt;a href=&#34;https://www.documentcloud.org/documents/23245709-2022-10-31-20-day-notification&#34;&gt;emailed a 20-day-notification letter 📄&lt;/a&gt; regarding this request, noting that “we are unable to provide an estimated completion date, but intend to provide records on a rolling basis as they become available.”</description>
     </item>
     
     <item>
       <title>Request Acknowledged, Fee Waiver Granted</title>
-      <link>https://www.data-liberation-project.org/requests/student-loan-data-documentation/#update-request-acknowledged-fee-waiver-granted</link>
+      <link>http://localhost:1313/requests/student-loan-data-documentation/#update-request-acknowledged-fee-waiver-granted</link>
       <pubDate>Thu, 29 Sep 2022 13:44:00 -0400</pubDate>
       <author>The Data Liberation Project</author>
-      <guid>https://www.data-liberation-project.org/requests/student-loan-data-documentation/#update-request-acknowledged-fee-waiver-granted</guid>
+      <guid>http://localhost:1313/requests/student-loan-data-documentation/#update-request-acknowledged-fee-waiver-granted</guid>
       <description>On September 29, 2022, the Department of Education &lt;a href=&#34;https://www.documentcloud.org/documents/23110090-2022-09-29-22-03723-f-acknowledgment-and-fee-waiver-letter&#34;&gt;emailed an acknowledgment letter 📄&lt;/a&gt; regarding this request and has granted the Data Liberation Project a fee waiver: &amp;ldquo;You have asked for a waiver of all fees, including duplication fees, associated with processing your request based on your requester category as News Media requester. Based on the information you submitted for a fee waiver, that request is granted.&amp;rdquo;</description>
     </item>
     
